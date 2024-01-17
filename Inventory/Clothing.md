@@ -1,0 +1,4 @@
+[[Jackets]]
+[[Pants]]
+[[Shoes]]
+[[Gloves]]
