@@ -4,7 +4,7 @@
 
 [[Programs]]
 
-[[Electricity/Electronics work]]
+[[Electronics work]]
 
 [[Memory]]
 

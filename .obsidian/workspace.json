@@ -11,11 +11,28 @@
             "id": "f317df8f327f8ed5",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Tree of Skill/Experiences/Achievements.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7137163c592bca9a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tree of Skill/Experiences/Sensory Experiences.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,6 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Tree of Skill/Experiences/Sensory Experiences.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Tree of Skill/Experiences/Sensory Experiences.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +137,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Tree of Skill/Experiences/Sensory Experiences.md"
+              }
             }
           },
           {
@@ -137,8 +158,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -150,41 +170,44 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f317df8f327f8ed5",
+  "active": "7137163c592bca9a",
   "lastOpenFiles": [
-    "Projects.md",
-    "Graph of human potential/Cooking.md",
-    "Graph of human potential/French onion soup.md",
-    "Graph of human potential/Soup.md",
-    "Chicken - 1.md",
-    "French onion soup.md",
-    "Graph of human potential/Growing mushrooms.md",
-    "Graph of human potential/Proficiency.md",
-    "Time.md",
-    "Age ranking.md",
-    "Musical Experiences.md",
-    "Pastas.md",
-    "Video games knowledge.md",
-    "Vertical Pull.md",
-    "Ticket to Ride.md",
-    "Stir-frys.md",
-    "Sensory Experiences.md",
-    "Scapular Pull.md",
-    "Rice.md",
-    "Resources.md",
-    "Engineer knowledge base/CANBUS.md",
-    "Engineer knowledge base/Signal communications.md",
-    "Engineer knowledge base/Serial communication.md",
-    "Engineer knowledge base/Tech knowledge.md",
-    "Engineer knowledge base/Programming languages.md",
-    "Engineer knowledge base/Programs.md",
-    "Inventory",
-    "Me",
-    "Small LAN",
-    "Untitled.canvas",
-    "Electricity",
-    "Engineer knowledge base",
-    "Projects",
-    "Graph of human potential"
+    "Tree of Skill/Experiences/Musical Experiences.md",
+    "Tree of Skill/Experiences/High scores.md",
+    "Tree of Skill/Experiences/Experiences.md",
+    "Tree of Skill/Experiences/Countries visited - X.md",
+    "Tree of Skill/Experiences/Bucket list.md",
+    "Tree of Skill/Experiences/Achievements.md",
+    "Tree of Skill/Resources/Resources.md",
+    "Tree of Skill/Resources/Personal Economy.md",
+    "Tree of Skill/Resources/Money.md",
+    "Tree of Skill/Time.md",
+    "Tree of Skill/Life.md",
+    "Tree of Skill/Age ranking.md",
+    "Tree of Skill/Skills/Proficiency/Cooking/Breakfasts.md",
+    "Tree of Skill/Skills/Proficiency/Cooking/Rice.md",
+    "Tree of Skill/Skills/Knowledge/Tech knowledge/Electronics work.md",
+    "Tree of Skill/Skills/Knowledge/Tech knowledge/pymodbus.md",
+    "Tree of Skill/Skills/Knowledge/Tech knowledge/Kwant joystick.md",
+    "Tree of Skill/Skills/Knowledge/Tech knowledge/Tech knowledge.md",
+    "Tree of Skill/Skills/Knowledge/Tech knowledge",
+    "Tree of Skill/Skills/Knowledge/Tech knowledge/Engineer knowledge/Signal communications.md",
+    "Tree of Skill/Skills/Knowledge/Tech knowledge/Engineer knowledge/CANBUS.md",
+    "Tree of Skill/Skills/Ability/Bodyweight training/Scapular Pull.md",
+    "Tree of Skill/Skills/Knowledge/Video games knowledge",
+    "Tree of Skill/Skills/Ability/Bodyweight training/Bodyweight training.md",
+    "Tree of Skill/Skills/Ability/Bodyweight training",
+    "Tree of Skill/Skills/Proficiency/Cooking/Tomato soup.md",
+    "Tree of Skill/Skills/Skills.md",
+    "Tree of Skill/Skills/Ability/Running.md",
+    "Tree of Skill/Skills",
+    "Tree of Skill/Skills/Proficiency/Cooking/Soup.md",
+    "Tree of Skill/Experiences",
+    "Tree of Skill/Skills/Ability",
+    "Tree of Skill/Skills/Proficiency",
+    "Tree of Skill/Resources",
+    "Tree of Skill/Skills/Knowledge",
+    "Tree of Skill/Skills/Proficiency/Cooking",
+    "Untitled.canvas"
   ]
 }
