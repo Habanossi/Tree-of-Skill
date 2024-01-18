@@ -20,12 +20,12 @@
             }
           },
           {
-            "id": "7137163c592bca9a",
+            "id": "2e6da38650d6b397",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tree of Skill/Experiences/Sensory Experiences.md",
+                "file": "Templates/Cooking template.md",
                 "mode": "source",
                 "source": false
               }
@@ -82,7 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 218.5
   },
   "right": {
     "id": "727332146ec76949",
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tree of Skill/Experiences/Sensory Experiences.md",
+                "file": "Templates/Cooking template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tree of Skill/Experiences/Sensory Experiences.md",
+                "file": "Templates/Cooking template.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tree of Skill/Experiences/Sensory Experiences.md"
+                "file": "Templates/Cooking template.md"
               }
             }
           },
@@ -170,44 +170,44 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7137163c592bca9a",
+  "active": "2e6da38650d6b397",
   "lastOpenFiles": [
-    "Tree of Skill/Experiences/Musical Experiences.md",
-    "Tree of Skill/Experiences/High scores.md",
-    "Tree of Skill/Experiences/Experiences.md",
-    "Tree of Skill/Experiences/Countries visited - X.md",
-    "Tree of Skill/Experiences/Bucket list.md",
+    "Templates/BWT template.md",
+    "Templates/Cooking template.md",
     "Tree of Skill/Experiences/Achievements.md",
-    "Tree of Skill/Resources/Resources.md",
-    "Tree of Skill/Resources/Personal Economy.md",
-    "Tree of Skill/Resources/Money.md",
-    "Tree of Skill/Time.md",
-    "Tree of Skill/Life.md",
-    "Tree of Skill/Age ranking.md",
-    "Tree of Skill/Skills/Proficiency/Cooking/Breakfasts.md",
-    "Tree of Skill/Skills/Proficiency/Cooking/Rice.md",
-    "Tree of Skill/Skills/Knowledge/Tech knowledge/Electronics work.md",
-    "Tree of Skill/Skills/Knowledge/Tech knowledge/pymodbus.md",
-    "Tree of Skill/Skills/Knowledge/Tech knowledge/Kwant joystick.md",
-    "Tree of Skill/Skills/Knowledge/Tech knowledge/Tech knowledge.md",
+    "Templates",
+    "Financial freedom.md",
+    "Tree of Skill/Experiences/Countries visited - X.md",
+    "Happiness.md",
+    "Long term goals.md",
+    "Plan for financial freedom.md",
+    "Projects.md",
+    "Self sufficiency.md",
+    "TOBUY.md",
+    "TODO.md",
+    "Tree of Skill/Resources/Inventory/Arts.md",
+    "Inventory/Arts.md",
+    "Tree of Skill/Resources/Inventory/Clothing.md",
+    "Inventory/Clothing.md",
+    "Tree of Skill/Resources/Inventory/Consumables.md",
+    "Inventory/Consumables.md",
+    "Tree of Skill/Resources/Inventory/EKI, Fiat Panda 2010.md",
+    "Tree of Skill/Resources/Inventory/Electronics.md",
+    "Tree of Skill/Resources/Inventory/Electronics.md",
+    "Tree of Skill/Resources/Inventory/Furniture.md",
+    "Inventory/Furniture.md",
+    "Tree of Skill/Resources/Inventory/Inventory.md",
+    "Inventory/Inventory.md",
+    "Tree of Skill/Resources/Inventory/Materials.md",
     "Tree of Skill/Skills/Knowledge/Tech knowledge",
-    "Tree of Skill/Skills/Knowledge/Tech knowledge/Engineer knowledge/Signal communications.md",
-    "Tree of Skill/Skills/Knowledge/Tech knowledge/Engineer knowledge/CANBUS.md",
-    "Tree of Skill/Skills/Ability/Bodyweight training/Scapular Pull.md",
     "Tree of Skill/Skills/Knowledge/Video games knowledge",
-    "Tree of Skill/Skills/Ability/Bodyweight training/Bodyweight training.md",
     "Tree of Skill/Skills/Ability/Bodyweight training",
-    "Tree of Skill/Skills/Proficiency/Cooking/Tomato soup.md",
-    "Tree of Skill/Skills/Skills.md",
-    "Tree of Skill/Skills/Ability/Running.md",
     "Tree of Skill/Skills",
-    "Tree of Skill/Skills/Proficiency/Cooking/Soup.md",
     "Tree of Skill/Experiences",
     "Tree of Skill/Skills/Ability",
     "Tree of Skill/Skills/Proficiency",
     "Tree of Skill/Resources",
     "Tree of Skill/Skills/Knowledge",
-    "Tree of Skill/Skills/Proficiency/Cooking",
     "Untitled.canvas"
   ]
 }
