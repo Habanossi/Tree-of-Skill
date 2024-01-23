@@ -3,3 +3,6 @@
 [[WinSCP]]
 [[puTTY]]
 [[Can analyzer 3]]
+[[Obsidian]]
+[[VS Code]]
+[[]]

@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "a2c07f36018a6481",
+        "id": "250122fffd70426c",
         "type": "tabs",
         "children": [
           {
-            "id": "f317df8f327f8ed5",
+            "id": "baebd0b92eece976",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tree of Skill/Experiences/Achievements.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2e6da38650d6b397",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Templates/Cooking template.md",
+                "file": "Tree of Skill/Skills/Proficiency/Gardening.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -82,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 218.5
+    "width": 392.5
   },
   "right": {
     "id": "727332146ec76949",
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/Cooking template.md",
+                "file": "Tree of Skill/Skills/Proficiency/Gardening.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/Cooking template.md",
+                "file": "Tree of Skill/Skills/Proficiency/Gardening.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Cooking template.md"
+                "file": "Tree of Skill/Skills/Proficiency/Gardening.md"
               }
             }
           },
@@ -170,44 +157,44 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2e6da38650d6b397",
+  "active": "baebd0b92eece976",
   "lastOpenFiles": [
-    "README.md",
-    "Templates/BWT template.md",
-    "Templates/Cooking template.md",
-    "Tree of Skill/Experiences/Achievements.md",
+    "Templates/Growing template.md",
+    "Templates/Book template.md",
+    "Tree of Skill/Skills/Proficiency/Gardening.md",
+    "Tree of Skill/Skills/Proficiency/Proficiency.md",
+    "Tree of Skill/Skills/Knowledge/Literature/Books.md",
+    "Tree of Skill/Skills/Knowledge/Literature",
+    "Tree of Skill/Skills/Knowledge/Literature/Literature.md",
+    "Tree of Skill/Skills/Knowledge/Knowledge.md",
+    "Tree of Skill/Skills/Knowledge/Video games knowledge/Video games knowledge.md",
+    "Tree of Skill/Skills/Knowledge/Video games knowledge/League of Legends.md",
+    "Tree of Skill/Skills/Ability/Movement.md",
+    "Tree of Skill/Skills/Ability/Winter sports.md",
+    "Tree of Skill/Skills/Ability/Martial arts.md",
+    "Tree of Skill/Skills/Ability/Ability.md",
+    "Tree of Skill/Skills/Knowledge/Tech knowledge/Engineer knowledge/Electronics work.md",
+    "Tree of Skill/Skills/Proficiency/Cooking/Pasta",
+    "Tree of Skill/Skills/Proficiency/Cooking/Soups",
+    "Tree of Skill/Skills/Knowledge/Tech knowledge/Engineer knowledge/Engineering programs",
+    "Tree of Skill/Skills/Knowledge/Tech knowledge/PC Programs",
+    "Tree of Skill/Skills/Knowledge/Tech knowledge/Code languages",
+    "Tree of Skill/Skills/Knowledge/Tech knowledge/Engineer knowledge/Kwant joystick.md",
+    "Tree of Skill/Skills/Knowledge/Tech knowledge/Engineer knowledge/Lilaas joystick.md",
+    "Tree of Skill/Skills/Knowledge/Tech knowledge/Engineer knowledge/Engineering programs/Programs.md",
+    "Tree of Skill/Skills/Proficiency/Cooking/Pippurisinappikermakana ja riisi.md",
+    "Tree of Skill/Experiences/Achievements/Age.md",
+    "Tree of Skill/Experiences/Achievements/Culture.md",
+    "Tree of Skill/Experiences/Achievements/Achievements.md",
+    "Tree of Skill/Experiences/Achievements/Social.md",
+    "Tree of Skill/Experiences/Achievements/Grind.md",
+    "Tree of Skill/Experiences/Achievements",
+    "Tree of Skill/Experiences/Achievements/Extreme.md",
+    "Tree of Skill/Experiences/Achievements/Explorer.md",
+    "Tree of Skill/Experiences/Achievements/Traditional.md",
     "Templates",
-    "Financial freedom.md",
-    "Tree of Skill/Experiences/Countries visited - X.md",
-    "Happiness.md",
-    "Long term goals.md",
-    "Plan for financial freedom.md",
-    "Projects.md",
-    "Self sufficiency.md",
-    "TOBUY.md",
-    "TODO.md",
-    "Tree of Skill/Resources/Inventory/Arts.md",
-    "Inventory/Arts.md",
-    "Tree of Skill/Resources/Inventory/Clothing.md",
-    "Inventory/Clothing.md",
-    "Tree of Skill/Resources/Inventory/Consumables.md",
-    "Inventory/Consumables.md",
-    "Tree of Skill/Resources/Inventory/EKI, Fiat Panda 2010.md",
-    "Tree of Skill/Resources/Inventory/Electronics.md",
-    "Tree of Skill/Resources/Inventory/Electronics.md",
-    "Tree of Skill/Resources/Inventory/Furniture.md",
-    "Inventory/Furniture.md",
-    "Tree of Skill/Resources/Inventory/Inventory.md",
-    "Inventory/Inventory.md",
     "Tree of Skill/Skills/Knowledge/Tech knowledge",
     "Tree of Skill/Skills/Knowledge/Video games knowledge",
-    "Tree of Skill/Skills/Ability/Bodyweight training",
-    "Tree of Skill/Skills",
-    "Tree of Skill/Experiences",
-    "Tree of Skill/Skills/Ability",
-    "Tree of Skill/Skills/Proficiency",
-    "Tree of Skill/Resources",
-    "Tree of Skill/Skills/Knowledge",
     "Untitled.canvas"
   ]
 }

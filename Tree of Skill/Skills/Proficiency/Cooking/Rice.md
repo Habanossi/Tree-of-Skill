@@ -1,1 +1,1 @@
-[[Pippurisinappikermakana ja riisi - 2]]
+[[Pippurisinappikermakana ja riisi]]
