@@ -1,3 +1,4 @@
+#locked
 Requirements:
 Goal sets achieved before continuing to next exercise:
 Current ROM level:
@@ -10,3 +11,5 @@ Current technique level:
 
 Used in training: Y/N
 current training sets for {{title}}:
+
+Leads to: 

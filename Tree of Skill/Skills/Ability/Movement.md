@@ -1,3 +1,4 @@
+#learned
 [[Running]]
 [[Bodyweight training]]
 [[Swimming]]

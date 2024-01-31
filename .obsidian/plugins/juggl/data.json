@@ -1,0 +1,171 @@
+{
+  "splitDirection": "vertical",
+  "typedLinkPrefix": "-",
+  "useImgServer": false,
+  "imgServerPort": 3837,
+  "debug": false,
+  "globalStyleGroups": [
+    {
+      "filter": "class:dangling",
+      "color": "rgb(102, 102, 102)",
+      "shape": "ellipse",
+      "icon": {
+        "name": "No icon",
+        "path": "",
+        "color": "white"
+      },
+      "showInPane": true,
+      "show": true,
+      "size": 2.32475609756098
+    },
+    {
+      "filter": "class:file -class:image",
+      "color": "rgb(179, 179, 179)",
+      "shape": "ellipse",
+      "icon": {
+        "name": "No icon",
+        "path": "",
+        "color": "white"
+      },
+      "showInPane": true,
+      "show": true,
+      "size": 2.69024390243902
+    },
+    {
+      "filter": "tag:#toplevel",
+      "color": "#ff0000",
+      "shape": "diamond",
+      "icon": {
+        "name": "No icon",
+        "path": "",
+        "color": "white"
+      },
+      "showInPane": true,
+      "show": true,
+      "size": 1.71560975609756
+    },
+    {
+      "filter": "tag:#locked",
+      "color": "#3a3131",
+      "shape": "diamond",
+      "icon": {
+        "name": "No icon",
+        "path": "",
+        "color": "white"
+      },
+      "showInPane": true,
+      "show": true,
+      "size": 1
+    },
+    {
+      "filter": "tag:#available",
+      "color": "#ffffff",
+      "shape": "diamond",
+      "icon": {
+        "name": "No icon",
+        "path": "",
+        "color": "white"
+      },
+      "showInPane": true,
+      "show": true,
+      "size": 1
+    },
+    {
+      "filter": "tag:#learned",
+      "color": "#00ff33",
+      "shape": "diamond",
+      "icon": {
+        "name": "No icon",
+        "path": "",
+        "color": "white"
+      },
+      "showInPane": true,
+      "show": true,
+      "size": 1
+    }
+  ],
+  "globalGraphRibbon": true,
+  "graphSettings": {
+    "animateLayout": true,
+    "autoAddNodes": true,
+    "autoExpand": false,
+    "autoZoom": false,
+    "coreStore": "Obsidian",
+    "expandInitial": true,
+    "fdgdLayout": "cola",
+    "filter": "",
+    "height": "100%",
+    "hoverEdges": false,
+    "layout": "force-directed",
+    "limit": 10000,
+    "mergeEdges": true,
+    "mode": "local",
+    "navigator": true,
+    "openWithShift": false,
+    "readContent": true,
+    "styleGroups": [],
+    "toolbar": true,
+    "width": "100%",
+    "zoomSpeed": 1
+  },
+  "embedSettings": {
+    "animateLayout": true,
+    "autoAddNodes": false,
+    "autoExpand": false,
+    "autoZoom": false,
+    "coreStore": "Obsidian",
+    "expandInitial": true,
+    "fdgdLayout": "cola",
+    "filter": "",
+    "height": "400px",
+    "hoverEdges": false,
+    "layout": "force-directed",
+    "limit": 1000,
+    "mergeEdges": true,
+    "mode": "local",
+    "navigator": false,
+    "openWithShift": false,
+    "readContent": true,
+    "styleGroups": [],
+    "toolbar": false,
+    "width": "100%",
+    "zoomSpeed": 1
+  },
+  "globalGraphSettings": {
+    "animateLayout": true,
+    "autoAddNodes": true,
+    "autoExpand": false,
+    "autoZoom": false,
+    "coreStore": "Obsidian",
+    "expandInitial": false,
+    "fdgdLayout": "cola",
+    "filter": "-class:dangling -class:file",
+    "height": "100%",
+    "width": "100%",
+    "limit": 10000,
+    "hoverEdges": false,
+    "layout": {
+      "name": "cola",
+      "animate": "end",
+      "refresh": 2,
+      "maxSimulationTime": 1500,
+      "ungrabifyWhileSimulating": false,
+      "fit": false,
+      "padding": 30,
+      "nodeDimensionsIncludeLabels": true,
+      "randomize": false,
+      "avoidOverlap": true,
+      "handleDisconnected": true,
+      "convergenceThreshold": 0.01,
+      "nodeSpacing": 10
+    },
+    "mergeEdges": true,
+    "mode": "workspace",
+    "navigator": true,
+    "openWithShift": false,
+    "readContent": false,
+    "styleGroups": [],
+    "toolbar": true,
+    "zoomSpeed": 1
+  }
+}
