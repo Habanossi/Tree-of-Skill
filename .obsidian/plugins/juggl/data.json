@@ -82,6 +82,32 @@
       "showInPane": true,
       "show": true,
       "size": 1
+    },
+    {
+      "filter": "tag:#mastered",
+      "color": "#c8bc37",
+      "shape": "diamond",
+      "icon": {
+        "name": "No icon",
+        "path": "",
+        "color": "white"
+      },
+      "showInPane": true,
+      "show": true,
+      "size": 1
+    },
+    {
+      "filter": "tag:#highlevel",
+      "color": "#ff0000",
+      "shape": "diamond",
+      "icon": {
+        "name": "No icon",
+        "path": "",
+        "color": "white"
+      },
+      "showInPane": true,
+      "show": true,
+      "size": 1.10646341463415
     }
   ],
   "globalGraphRibbon": true,

@@ -2,3 +2,4 @@
 [[Cooking]]
 [[Growing mushrooms]]
 [[Gardening]]
+[[Art]]
