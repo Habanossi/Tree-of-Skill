@@ -3,25 +3,26 @@
 Requirements:
 Goal sets to be achieved before continuing to next exercise:
 Currently used in training: Y/N
-Current training sets for {{title}}:
+Current training sets for Ring Pull Up:
 Leads to: 
+[[Ring L-Sit Pull Up]]
 
 **Level**
 Current ROM level: 0
 Current technique level: 0
 
 **Level requirements**
-Level 1: Have knowledge of the concept of {{title}}, have tested {{title}} 1-2 times
+Level 1: Have knowledge of the concept of Ring Pull Up, have tested Ring Pull Up 1-2 times
 Level 2:
 Level 3:
 Level 4:
 Level 5:
 
 **Personal records**
-1 set {{title}} record:
-2 set {{title}} record:
-3 set {{title}} record:
-4 set {{title}} record:
+1 set Ring Pull Up record:
+2 set Ring Pull Up record:
+3 set Ring Pull Up record:
+4 set Ring Pull Up record:
 
 **Resources**
 

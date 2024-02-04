@@ -5,3 +5,4 @@
 [[Board games knowledge]]
 [[Naturvetenskaper]]
 [[Literature]]
+[[Languages]]

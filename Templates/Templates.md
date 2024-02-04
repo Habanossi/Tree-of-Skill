@@ -1,0 +1,6 @@
+[[Ability template]]
+[[BWT template]]
+[[Book template]]
+[[Growing template]]
+[[General template]]
+[[Cooking template]]
