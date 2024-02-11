@@ -1,2 +1,2 @@
-[[English]]
-[[German]]
+
+[[Germanic languages]]

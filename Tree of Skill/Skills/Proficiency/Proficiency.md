@@ -4,3 +4,5 @@
 [[Gardening]]
 [[Art]]
 [[Crafting]]
+[[Building]]
+[[Repairing]]

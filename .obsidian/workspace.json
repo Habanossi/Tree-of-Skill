@@ -4,17 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "128d1a4946631a82",
+        "id": "8381f61569fa23a7",
         "type": "tabs",
         "children": [
           {
-            "id": "cb2e67ab63745672",
+            "id": "8cf2cc2fd39fa612",
             "type": "leaf",
-            "pinned": true,
             "state": {
-              "type": "juggl_view",
-              "state": {},
-              "pinned": true
+              "type": "markdown",
+              "state": {
+                "file": "Tree of Skill/Skills/Knowledge/Languages/English A1.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -67,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 392.5
+    "width": 339.5
   },
   "right": {
     "id": "727332146ec76949",
@@ -83,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Tree of Skill/Skills/Knowledge/Languages/English A1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Tree of Skill/Skills/Knowledge/Languages/English A1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -120,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Tree of Skill/Skills/Knowledge/Languages/English A1.md"
+              }
             }
           },
           {
@@ -152,12 +158,11 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -170,44 +175,44 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "1873b233673bdd61",
+  "active": "2b75e6ee26123d3d",
   "lastOpenFiles": [
-    "Tree of Skill/Skills/Proficiency/Metalworking techniques.md",
-    "Tree of Skill/Skills/Proficiency/Metalworking tool proficiencies.md",
-    "Tree of Skill/Skills/Proficiency/Sewing.md",
-    "Tree of Skill/Skills/Proficiency/Carpentry.md",
-    "Tree of Skill/Skills/Proficiency/Metalworking.md",
-    "Tree of Skill/Skills/Proficiency/Metalworking crafts crafted.md",
-    "Tree of Skill/Skills/Proficiency/Leatherworking.md",
-    "Tree of Skill/Skills/Proficiency/Leatherworking tool proficiencies.md",
-    "Tree of Skill/Skills/Proficiency/Leatherworking techniques.md",
-    "Tree of Skill/Skills/Proficiency/Leatherworking crafts crafted.md",
-    "Tree of Skill/Skills/Proficiency/Sewing techniques.md",
-    "Tree of Skill/Skills/Proficiency/Sewing crafts crafted.md",
-    "Tree of Skill/Skills/Proficiency/Sewing tool proficiencies.md",
-    "Tree of Skill/Skills/Proficiency/Crafting.md",
-    "Templates/Crafting template.md",
-    "Tree of Skill/Skills/Proficiency/Carpentry crafts crafted.md",
-    "Tree of Skill/Skills/Proficiency/Carpentry tool proficiencies.md",
-    "Tree of Skill/Skills/Proficiency/Carpentry techniques.md",
+    "Tree of Skill/Skills/Knowledge/Languages/Germanic languages/German/German A2.md",
+    "Tree of Skill/Skills/Knowledge/Languages/Germanic languages/German/German A1.md",
+    "Tree of Skill/Skills/Knowledge/Languages/Germanic languages/German/German.md",
+    "Tree of Skill/Skills/Knowledge/Languages/Germanic languages.md",
+    "Tree of Skill/Skills/Knowledge/Languages/English C2.md",
+    "Tree of Skill/Skills/Knowledge/Languages/English C1.md",
+    "Tree of Skill/Skills/Knowledge/Languages/English B2.md",
+    "Tree of Skill/Skills/Knowledge/Languages/English B1.md",
+    "Tree of Skill/Skills/Knowledge/Languages/English A2.md",
+    "Tree of Skill/Skills/Knowledge/Languages/English A1.md",
+    "Tree of Skill/Skills/Knowledge/Languages/Germanic languages/English.md",
+    "Tree of Skill/Skills/Knowledge/Languages/Languages.md",
+    "Tree of Skill/Skills/Knowledge/Languages/Germanic languages",
+    "Tree of Skill/Skills/Proficiency/Building/Building.md",
     "Tree of Skill/Skills/Proficiency/Proficiency.md",
-    "Templates/Templates.md",
-    "C++.md",
-    "Tree of Skill/Skills/Knowledge/Tech knowledge/Code languages/Programming languages.md",
-    "Programming concepts.md",
-    "Programming.md",
-    "Tree of Skill/Skills/Knowledge/Tech knowledge/Tech knowledge.md",
-    "Tree of Skill/Skills/Knowledge/Culture/Film/Film.md",
-    "Tree of Skill/Skills/Knowledge/Languages/German",
+    "Tree of Skill/Skills/Proficiency/Repairing/Repairing.md",
+    "Tree of Skill/Skills/Proficiency/Crafting/Sewing.md",
+    "Tree of Skill/Skills/Proficiency/Repairing",
+    "Tree of Skill/Skills/Proficiency/Building",
+    "Tree of Skill/Skills/Proficiency/Crafting/Leatherworking.md",
+    "Tree of Skill/Skills/Proficiency/Crafting/Carpentry.md",
+    "Tree of Skill/Skills/Proficiency/Crafting",
+    "Tree of Skill/Skills/Proficiency/Crafting/Metalworking techniques.md",
+    "Tree of Skill/Skills/Proficiency/Crafting/Metalworking tool proficiencies.md",
+    "Tree of Skill/Skills/Proficiency/Crafting/Metalworking.md",
+    "Tree of Skill/Skills/Proficiency/Crafting/Metalworking crafts crafted.md",
+    "Tree of Skill/Skills/Proficiency/Crafting/Leatherworking tool proficiencies.md",
+    "Tree of Skill/Skills/Proficiency/Crafting/Leatherworking techniques.md",
+    "Tree of Skill/Skills/Proficiency/Crafting/Leatherworking crafts crafted.md",
+    "Tree of Skill/Skills/Proficiency/Crafting/Sewing techniques.md",
+    "Tree of Skill/Skills/Knowledge/Languages/Germanic languages/German",
     "Tree of Skill/Skills/Knowledge/Languages",
     "Tree of Skill/Skills/Proficiency/Art",
     "Tree of Skill/Skills/Knowledge/Naturvetenskaper",
     "Tree of Skill/Skills/Knowledge/Board games knowledge",
     "Tree of Skill/Skills/Knowledge/Culture/Film",
-    "Tree of Skill/Skills/Knowledge/Culture",
-    "Tree of Skill/Skills/Knowledge/Culture/Literature",
-    "Tree of Skill/Skills/Proficiency/Cooking/Pasta",
-    "Tree of Skill/Skills/Proficiency/Cooking/Soups",
     "Untitled.canvas"
   ]
 }

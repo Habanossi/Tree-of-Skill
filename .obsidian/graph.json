@@ -6,17 +6,60 @@
   "hideUnresolved": false,
   "showOrphans": true,
   "collapse-color-groups": true,
-  "colorGroups": [],
+  "colorGroups": [
+    {
+      "query": "tag:#toplevel  ",
+      "color": {
+        "a": 1,
+        "rgb": 16711680
+      }
+    },
+    {
+      "query": "tag:#learned  ",
+      "color": {
+        "a": 1,
+        "rgb": 3669760
+      }
+    },
+    {
+      "query": "tag:#locked  ",
+      "color": {
+        "a": 1,
+        "rgb": 7106152
+      }
+    },
+    {
+      "query": "tag:#available",
+      "color": {
+        "a": 1,
+        "rgb": 16777215
+      }
+    },
+    {
+      "query": "tag:#mastered",
+      "color": {
+        "a": 1,
+        "rgb": 13418286
+      }
+    },
+    {
+      "query": "tag:#highlevel  ",
+      "color": {
+        "a": 1,
+        "rgb": 16711680
+      }
+    }
+  ],
   "collapse-display": false,
-  "showArrow": false,
-  "textFadeMultiplier": -0.4,
-  "nodeSizeMultiplier": 2.1671875,
-  "lineSizeMultiplier": 0.967708333333333,
+  "showArrow": true,
+  "textFadeMultiplier": -0.1,
+  "nodeSizeMultiplier": 2.26927083333333,
+  "lineSizeMultiplier": 1.8609375,
   "collapse-forces": false,
-  "centerStrength": 0.166666666666667,
+  "centerStrength": 0.270833333333333,
   "repelStrength": 20,
   "linkStrength": 1,
   "linkDistance": 52,
-  "scale": 0.04243834984520968,
+  "scale": 0.16395676930666997,
   "close": true
 }
