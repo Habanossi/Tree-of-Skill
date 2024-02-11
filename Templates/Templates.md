@@ -5,3 +5,4 @@
 [[General template]]
 [[Cooking template]]
 [[Language template]]
+[[Crafting template]]

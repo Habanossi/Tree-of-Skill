@@ -8,17 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6b8c5cabd449f3b7",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "juggl_view",
-              "state": {},
-              "pinned": true
-            }
-          },
-          {
-            "id": "085be21be5868eb2",
+            "id": "cb2e67ab63745672",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -27,8 +17,7 @@
               "pinned": true
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -163,7 +152,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -181,36 +170,36 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "085be21be5868eb2",
+  "active": "1873b233673bdd61",
   "lastOpenFiles": [
+    "Tree of Skill/Skills/Proficiency/Metalworking techniques.md",
+    "Tree of Skill/Skills/Proficiency/Metalworking tool proficiencies.md",
+    "Tree of Skill/Skills/Proficiency/Sewing.md",
+    "Tree of Skill/Skills/Proficiency/Carpentry.md",
+    "Tree of Skill/Skills/Proficiency/Metalworking.md",
+    "Tree of Skill/Skills/Proficiency/Metalworking crafts crafted.md",
+    "Tree of Skill/Skills/Proficiency/Leatherworking.md",
+    "Tree of Skill/Skills/Proficiency/Leatherworking tool proficiencies.md",
+    "Tree of Skill/Skills/Proficiency/Leatherworking techniques.md",
+    "Tree of Skill/Skills/Proficiency/Leatherworking crafts crafted.md",
+    "Tree of Skill/Skills/Proficiency/Sewing techniques.md",
+    "Tree of Skill/Skills/Proficiency/Sewing crafts crafted.md",
+    "Tree of Skill/Skills/Proficiency/Sewing tool proficiencies.md",
+    "Tree of Skill/Skills/Proficiency/Crafting.md",
+    "Templates/Crafting template.md",
+    "Tree of Skill/Skills/Proficiency/Carpentry crafts crafted.md",
+    "Tree of Skill/Skills/Proficiency/Carpentry tool proficiencies.md",
+    "Tree of Skill/Skills/Proficiency/Carpentry techniques.md",
+    "Tree of Skill/Skills/Proficiency/Proficiency.md",
+    "Templates/Templates.md",
     "C++.md",
     "Tree of Skill/Skills/Knowledge/Tech knowledge/Code languages/Programming languages.md",
     "Programming concepts.md",
     "Programming.md",
     "Tree of Skill/Skills/Knowledge/Tech knowledge/Tech knowledge.md",
     "Tree of Skill/Skills/Knowledge/Culture/Film/Film.md",
-    "Tree of Skill/Experiences/Achievements/Culture.md",
-    "Tree of Skill/Skills/Knowledge/Knowledge.md",
-    "Tree of Skill/Skills/Knowledge/Culture/Film/Movies.md",
-    "Tree of Skill/Skills/Knowledge/Languages/German/German A1.md",
-    "Tree of Skill/Skills/Knowledge/Languages/German/German C1.md",
-    "Tree of Skill/Skills/Knowledge/Languages/German/German.md",
     "Tree of Skill/Skills/Knowledge/Languages/German",
-    "{title} A1.md",
-    "Tree of Skill/Skills/Knowledge/Languages/Languages.md",
     "Tree of Skill/Skills/Knowledge/Languages",
-    "Tree of Skill/Skills/Knowledge/Languages/German/German C2.md",
-    "Tree of Skill/Skills/Knowledge/Languages/German/German B2.md",
-    "Tree of Skill/Skills/Knowledge/Languages/German/German B1.md",
-    "Tree of Skill/Skills/Knowledge/Languages/German/German A2.md",
-    "Templates/Language template.md",
-    "Templates/Templates.md",
-    "Notes of ideas.md",
-    "Tree of Skill/Skills/Knowledge/Languages/English.md",
-    "Tree of Skill/Skills/Ability/Bodyweight training/Ring L-Sit Pull Up.md",
-    "Tree of Skill/Skills/Ability/Bodyweight training/High One Arm Pull Up.md",
-    "Tree of Skill/Skills/Ability/Bodyweight training/Arch Hang.md",
-    "Tree of Skill/Skills/Ability/Bodyweight training/One Arm Pull Up.md",
     "Tree of Skill/Skills/Proficiency/Art",
     "Tree of Skill/Skills/Knowledge/Naturvetenskaper",
     "Tree of Skill/Skills/Knowledge/Board games knowledge",

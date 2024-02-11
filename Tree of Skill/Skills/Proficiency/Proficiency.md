@@ -3,3 +3,4 @@
 [[Growing mushrooms]]
 [[Gardening]]
 [[Art]]
+[[Crafting]]
