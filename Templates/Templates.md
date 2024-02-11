@@ -4,3 +4,4 @@
 [[Growing template]]
 [[General template]]
 [[Cooking template]]
+[[Language template]]

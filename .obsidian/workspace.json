@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "b808f1f6e3c5e392",
+        "id": "128d1a4946631a82",
         "type": "tabs",
         "children": [
           {
-            "id": "69e6f6ced3cf4b91",
+            "id": "6b8c5cabd449f3b7",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -18,15 +18,13 @@
             }
           },
           {
-            "id": "9e439326fdb4bada",
+            "id": "085be21be5868eb2",
             "type": "leaf",
+            "pinned": true,
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes of ideas.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "juggl_view",
+              "state": {},
+              "pinned": true
             }
           }
         ],
@@ -96,7 +94,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes of ideas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +110,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes of ideas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,9 +131,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Notes of ideas.md"
-              }
+              "state": {}
             }
           },
           {
@@ -173,7 +167,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -186,34 +181,36 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "9e439326fdb4bada",
+  "active": "085be21be5868eb2",
   "lastOpenFiles": [
-    "Tree of Skill/Skills/Knowledge/English.md",
+    "C++.md",
+    "Tree of Skill/Skills/Knowledge/Tech knowledge/Code languages/Programming languages.md",
+    "Programming concepts.md",
+    "Programming.md",
+    "Tree of Skill/Skills/Knowledge/Tech knowledge/Tech knowledge.md",
+    "Tree of Skill/Skills/Knowledge/Culture/Film/Film.md",
+    "Tree of Skill/Experiences/Achievements/Culture.md",
+    "Tree of Skill/Skills/Knowledge/Knowledge.md",
+    "Tree of Skill/Skills/Knowledge/Culture/Film/Movies.md",
+    "Tree of Skill/Skills/Knowledge/Languages/German/German A1.md",
+    "Tree of Skill/Skills/Knowledge/Languages/German/German C1.md",
+    "Tree of Skill/Skills/Knowledge/Languages/German/German.md",
+    "Tree of Skill/Skills/Knowledge/Languages/German",
+    "{title} A1.md",
+    "Tree of Skill/Skills/Knowledge/Languages/Languages.md",
+    "Tree of Skill/Skills/Knowledge/Languages",
+    "Tree of Skill/Skills/Knowledge/Languages/German/German C2.md",
+    "Tree of Skill/Skills/Knowledge/Languages/German/German B2.md",
+    "Tree of Skill/Skills/Knowledge/Languages/German/German B1.md",
+    "Tree of Skill/Skills/Knowledge/Languages/German/German A2.md",
+    "Templates/Language template.md",
+    "Templates/Templates.md",
+    "Notes of ideas.md",
+    "Tree of Skill/Skills/Knowledge/Languages/English.md",
     "Tree of Skill/Skills/Ability/Bodyweight training/Ring L-Sit Pull Up.md",
     "Tree of Skill/Skills/Ability/Bodyweight training/High One Arm Pull Up.md",
     "Tree of Skill/Skills/Ability/Bodyweight training/Arch Hang.md",
     "Tree of Skill/Skills/Ability/Bodyweight training/One Arm Pull Up.md",
-    "Tree of Skill/Skills/Knowledge/Languages.md",
-    "Tree of Skill/Skills/Knowledge/Knowledge.md",
-    "Tree of Skill/Skills/Proficiency/Cooking/Pasta/Pastas.md",
-    "Templates/General template.md",
-    "Tree of Skill/Skills/Ability/Bodyweight training/One Arm Pull Up Negative.md",
-    "Tree of Skill/Skills/Ability/Bodyweight training/Archer Pull Up.md",
-    "Tree of Skill/Skills/Ability/Bodyweight training/Typewriter Pull Up.md",
-    "Tree of Skill/Skills/Ability/Bodyweight training/Ring Wide L-Pull Up.md",
-    "Tree of Skill/Skills/Ability/Bodyweight training/Ring Wide Pull Up.md",
-    "Tree of Skill/Skills/Ability/Bodyweight training/Ring Pull Up.md",
-    "Tree of Skill/Skills/Ability/Bodyweight training/Pull Up.md",
-    "Tree of Skill/Skills/Ability/Bodyweight training/C2B Pull Up.md",
-    "Tree of Skill/Skills/Ability/Bodyweight training/L-sit Pull Up.md",
-    "Tree of Skill/Skills/Ability/Bodyweight training/Pull Up Negative.md",
-    "Tree of Skill/Skills/Ability/Bodyweight training/Chin Up Negative.md",
-    "Tree of Skill/Skills/Ability/Bodyweight training/Scapular Pull.md",
-    "Tree of Skill/Skills/Ability/Bodyweight training/Free hang.md",
-    "Tree of Skill/Skills/Ability/Bodyweight training/Inverted Hang.md",
-    "Templates/BWT template.md",
-    "Tree of Skill/Skills/Ability/Bodyweight training/Vertical Pull.md",
-    "Tree of Skill/Skills/Ability/Bodyweight training/Bodyweight training.md",
     "Tree of Skill/Skills/Proficiency/Art",
     "Tree of Skill/Skills/Knowledge/Naturvetenskaper",
     "Tree of Skill/Skills/Knowledge/Board games knowledge",
@@ -222,8 +219,6 @@
     "Tree of Skill/Skills/Knowledge/Culture/Literature",
     "Tree of Skill/Skills/Proficiency/Cooking/Pasta",
     "Tree of Skill/Skills/Proficiency/Cooking/Soups",
-    "Tree of Skill/Skills/Knowledge/Tech knowledge/Engineer knowledge/Engineering programs",
-    "Tree of Skill/Skills/Knowledge/Tech knowledge/PC Programs",
     "Untitled.canvas"
   ]
 }

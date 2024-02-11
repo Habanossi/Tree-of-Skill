@@ -1,6 +1,6 @@
 [[Signal communications]]
 
-[[Programming languages]]
+[[Programming]]
 
 [[Programs]]
 

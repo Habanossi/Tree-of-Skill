@@ -6,3 +6,4 @@
 [[Naturvetenskaper]]
 [[Literature]]
 [[Languages]]
+[[Culture]]
