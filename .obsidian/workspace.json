@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tree of Skill/Skills/Knowledge/Languages/English A1.md",
+                "file": "Tree of Skill/Skills/Knowledge/Tech knowledge/Programming concepts.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tree of Skill/Skills/Knowledge/Languages/English A1.md",
+                "file": "Tree of Skill/Skills/Knowledge/Tech knowledge/Programming concepts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tree of Skill/Skills/Knowledge/Languages/English A1.md",
+                "file": "Tree of Skill/Skills/Knowledge/Tech knowledge/Programming concepts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tree of Skill/Skills/Knowledge/Languages/English A1.md"
+                "file": "Tree of Skill/Skills/Knowledge/Tech knowledge/Programming concepts.md"
               }
             }
           },
@@ -177,42 +177,41 @@
   },
   "active": "2b75e6ee26123d3d",
   "lastOpenFiles": [
-    "Tree of Skill/Skills/Knowledge/Languages/Germanic languages/German/German A2.md",
-    "Tree of Skill/Skills/Knowledge/Languages/Germanic languages/German/German A1.md",
-    "Tree of Skill/Skills/Knowledge/Languages/Germanic languages/German/German.md",
-    "Tree of Skill/Skills/Knowledge/Languages/Germanic languages.md",
-    "Tree of Skill/Skills/Knowledge/Languages/English C2.md",
-    "Tree of Skill/Skills/Knowledge/Languages/English C1.md",
-    "Tree of Skill/Skills/Knowledge/Languages/English B2.md",
-    "Tree of Skill/Skills/Knowledge/Languages/English B1.md",
-    "Tree of Skill/Skills/Knowledge/Languages/English A2.md",
-    "Tree of Skill/Skills/Knowledge/Languages/English A1.md",
-    "Tree of Skill/Skills/Knowledge/Languages/Germanic languages/English.md",
-    "Tree of Skill/Skills/Knowledge/Languages/Languages.md",
-    "Tree of Skill/Skills/Knowledge/Languages/Germanic languages",
-    "Tree of Skill/Skills/Proficiency/Building/Building.md",
+    "Tree of Skill/Skills/Proficiency/Art/Music/Instruments/Instruments.md",
+    "Tree of Skill/Skills/Proficiency/Art/Music/Instruments",
+    "Tree of Skill/Skills/Proficiency/Art/Music/Music.md",
+    "Tree of Skill/Skills/Proficiency/Art/Art.md",
+    "Tree of Skill/Skills/Proficiency/Art/Music/Instruments/Woodwind instruments.md",
+    "Tree of Skill/Skills/Proficiency/Art/Music",
     "Tree of Skill/Skills/Proficiency/Proficiency.md",
-    "Tree of Skill/Skills/Proficiency/Repairing/Repairing.md",
+    "Tree of Skill/Skills/Proficiency/Crafting/Carpentry.md",
+    "Tree of Skill/Skills/Proficiency/Crafting/Carpentry crafts crafted.md",
+    "Tree of Skill/Skills/Proficiency/Crafting/Carpentry techniques.md",
+    "Tree of Skill/Skills/Proficiency/Crafting/Carpentry tool proficiencies.md",
+    "Tree of Skill/Skills/Proficiency/Crafting/Leatherworking.md",
+    "Tree of Skill/Skills/Proficiency/Crafting/Sewing crafts crafted.md",
     "Tree of Skill/Skills/Proficiency/Crafting/Sewing.md",
+    "Tree of Skill/Skills/Proficiency/Cooking/Breakfasts.md",
+    "Tree of Skill/Skills/Proficiency/Cooking/Strawberry cake.md",
+    "Tree of Skill/Skills/Proficiency/Cooking/Cakes.md",
+    "Tree of Skill/Skills/Proficiency/Cooking/Baking.md",
+    "Tree of Skill/Skills/Proficiency/Cooking/Cooking.md",
+    "Tree of Skill/Skills/Proficiency/Cooking/Overnight oats.md",
+    "Tree of Skill/Skills/Proficiency/Cooking/Cooked rice.md",
+    "Tree of Skill/Skills/Proficiency/Cooking/Pippurisinappikermakana.md",
+    "Tree of Skill/Skills/Proficiency/Cooking/Chicken.md",
+    "Tree of Skill/Skills/Proficiency/Cooking/Baking/Bread roll.md",
+    "Tree of Skill/Skills/Proficiency/Cooking/Baking/Bread.md",
+    "Tree of Skill/Skills/Proficiency/Cooking/Baking",
+    "Templates/Cooking template.md",
+    "Tree of Skill/Skills/Proficiency/Cooking/Brewing.md",
+    "Tree of Skill/Skills/Knowledge/Languages/Germanic languages/English",
+    "Tree of Skill/Skills/Knowledge/Languages/Germanic languages",
     "Tree of Skill/Skills/Proficiency/Repairing",
     "Tree of Skill/Skills/Proficiency/Building",
-    "Tree of Skill/Skills/Proficiency/Crafting/Leatherworking.md",
-    "Tree of Skill/Skills/Proficiency/Crafting/Carpentry.md",
     "Tree of Skill/Skills/Proficiency/Crafting",
-    "Tree of Skill/Skills/Proficiency/Crafting/Metalworking techniques.md",
-    "Tree of Skill/Skills/Proficiency/Crafting/Metalworking tool proficiencies.md",
-    "Tree of Skill/Skills/Proficiency/Crafting/Metalworking.md",
-    "Tree of Skill/Skills/Proficiency/Crafting/Metalworking crafts crafted.md",
-    "Tree of Skill/Skills/Proficiency/Crafting/Leatherworking tool proficiencies.md",
-    "Tree of Skill/Skills/Proficiency/Crafting/Leatherworking techniques.md",
-    "Tree of Skill/Skills/Proficiency/Crafting/Leatherworking crafts crafted.md",
-    "Tree of Skill/Skills/Proficiency/Crafting/Sewing techniques.md",
     "Tree of Skill/Skills/Knowledge/Languages/Germanic languages/German",
     "Tree of Skill/Skills/Knowledge/Languages",
-    "Tree of Skill/Skills/Proficiency/Art",
-    "Tree of Skill/Skills/Knowledge/Naturvetenskaper",
-    "Tree of Skill/Skills/Knowledge/Board games knowledge",
-    "Tree of Skill/Skills/Knowledge/Culture/Film",
     "Untitled.canvas"
   ]
 }

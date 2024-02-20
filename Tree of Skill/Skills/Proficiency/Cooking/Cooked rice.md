@@ -1,5 +1,5 @@
 #locked 
 Difficulty:
 Deliciousness:
-Ingredients:
+Ingredients: Rice
 Recipes:

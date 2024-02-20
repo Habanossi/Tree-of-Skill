@@ -1,4 +1,4 @@
 
-[[Baking perus sämpylä]]
+[[Bread roll]]
 [[Baguette ]]
 [[Rye bread]]

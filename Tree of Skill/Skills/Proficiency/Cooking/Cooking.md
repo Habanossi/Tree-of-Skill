@@ -9,14 +9,13 @@ Cooking proficiency can be measured on a scale from 0-3.
 
 
 Cooking includes things like:
-[[Baking bread - 1]]
-[[Soup]]
+[[Soups]]
 [[ Brewing]]
 [[Pastas]]
 [[Stir-frys]]
 [[Breakfasts]]
-[[Rice]]
-[[Chicken - 1]]
+[[Cooked rice]]
+[[Chicken]]
 [[Fermentation]]
-
+[[Baking]]
 
