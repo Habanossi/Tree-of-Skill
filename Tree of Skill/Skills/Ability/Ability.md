@@ -10,4 +10,5 @@ When it comes to abilities, they can be rated from 0-5 but the reasoning behind 
 
 [[Movement]]
 
+Non-movement physical abilities: Focus? Grit? Metabolism? Meditation? Tolerance? 
 

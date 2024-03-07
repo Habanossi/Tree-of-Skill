@@ -5,3 +5,5 @@
 [[Winter sports]]
 [[Martial arts]]
 [[Bouldering]]
+[[Racket sports]]
+[[Team sports]]

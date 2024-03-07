@@ -1,7 +1,7 @@
 #locked 
 Difficulty:
 Deliciousness:
-Ingredients:
+Ingredients: [[Chicken]]
 Recipes:
 
 Pairs well with:
