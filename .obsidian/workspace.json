@@ -11,12 +11,8 @@
             "id": "8cf2cc2fd39fa612",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "README.md"
-              }
+              "state": {}
             }
           },
           {
@@ -177,6 +169,24 @@
   },
   "active": "8cf2cc2fd39fa612",
   "lastOpenFiles": [
+    "College Algebra.md",
+    "Tree of Skill/Skills/Knowledge/Nature Sciences/Mathematics/Algebra 2.md",
+    "Tree of Skill/Skills/Knowledge/Nature Sciences/Mathematics/Pre-Algebra.md",
+    "Tree of Skill/Skills/Knowledge/Nature Sciences/Biology.md",
+    "Tree of Skill/Skills/Knowledge/Nature Sciences/Mathematics/Algebra 1.md",
+    "Tree of Skill/Skills/Knowledge/Nature Sciences/Mathematics",
+    "Tree of Skill/Skills/Knowledge/Nature Sciences/Mathematics/Algebra basics.md",
+    "Tree of Skill/Skills/Knowledge/Nature Sciences/Mathematics/Algebra.md",
+    "Templates/Math template.md",
+    "Templates/General template.md",
+    "Templates/Templates.md",
+    "Tree of Skill/Skills/Knowledge/Nature Sciences/Mathematics/Mathematics.md",
+    "Tree of Skill/Skills/Knowledge/Nature Sciences/Nature Sciences.md",
+    "Tree of Skill/Skills/Knowledge/Nature Sciences/Physics.md",
+    "Tree of Skill/Skills/Knowledge/Nature Sciences/Chemistry.md",
+    "Tree of Skill/Skills/Knowledge/Knowledge.md",
+    "Tree of Skill/Skills/Ability/Bouldering.md",
+    "README.md",
     "Notes of ideas.md",
     "Tree of Skill/Skills/Proficiency/Cooking/Chickpeas.md",
     "Tree of Skill/Skills/Proficiency/Cooking/Chickpea curry.md",
@@ -186,23 +196,6 @@
     "Tree of Skill/Skills/Proficiency/Cooking/Cooking.md",
     "Tree of Skill/Skills/Proficiency/Cooking/Chicken.md",
     "Tree of Skill/Skills/Proficiency/Cooking/Pippurisinappikermakana.md",
-    "Tree of Skill/Skills/Proficiency/Cooking/Sauces.md",
-    "Tree of Skill/Skills/Proficiency/Cooking/Curry.md",
-    "Tree of Skill/Skills/Proficiency/Cooking/Cooked rice.md",
-    "Tree of Skill/Skills/Knowledge/Tech knowledge/Matlab.md",
-    "Tree of Skill/Skills/Knowledge/Tech knowledge/Engineer knowledge/Engineering programs/Programs.md",
-    "Tree of Skill/Skills/Knowledge/Tech knowledge/Engineer knowledge/Engineering programs/WinSCP.md",
-    "Tree of Skill/Skills/Knowledge/Tech knowledge/Engineer knowledge/Engineering programs/UAExpert.md",
-    "Tree of Skill/Skills/Knowledge/Tech knowledge/Engineer knowledge/Engineering programs/puTTY.md",
-    "Tree of Skill/Skills/Knowledge/Tech knowledge/Engineer knowledge/CANBUS.md",
-    "Tree of Skill/Skills/Knowledge/Tech knowledge/Engineer knowledge/Electronics work.md",
-    "Tree of Skill/Skills/Knowledge/Tech knowledge/Engineer knowledge/Kwant joystick.md",
-    "Tree of Skill/Skills/Knowledge/Tech knowledge/Engineer knowledge/Lilaas joystick.md",
-    "Tree of Skill/Skills/Knowledge/Tech knowledge/Engineer knowledge/Terminating resistor.md",
-    "Tree of Skill/Skills/Knowledge/Tech knowledge/Engineer knowledge/Signal communications.md",
-    "Tree of Skill/Skills/Knowledge/Tech knowledge/Engineer knowledge/Serial communication.md",
-    "Tree of Skill/Skills/Knowledge/Tech knowledge/Engineer knowledge/SD cards.md",
-    "Tree of Skill/Skills/Knowledge/Tech knowledge/Engineer knowledge/Memory.md",
     "Tree of Skill/Skills/Proficiency/Art/Music/Instruments",
     "Tree of Skill/Skills/Proficiency/Art/Music",
     "Tree of Skill/Skills/Proficiency/Cooking/Baking",
@@ -212,7 +205,6 @@
     "Tree of Skill/Skills/Proficiency/Building",
     "Tree of Skill/Skills/Proficiency/Crafting",
     "Tree of Skill/Skills/Knowledge/Languages/Germanic languages/German",
-    "Tree of Skill/Skills/Knowledge/Languages",
     "Untitled.canvas"
   ]
 }

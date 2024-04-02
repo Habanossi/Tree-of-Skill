@@ -6,3 +6,4 @@
 [[Cooking template]]
 [[Language template]]
 [[Crafting template]]
+[[Math template]]

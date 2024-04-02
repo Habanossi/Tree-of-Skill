@@ -3,7 +3,7 @@
 [[Marine knowledge]]
 [[Video games knowledge]]
 [[Board games knowledge]]
-[[Naturvetenskaper]]
+[[Nature Sciences]]
 [[Literature]]
 [[Languages]]
 [[Culture]]
