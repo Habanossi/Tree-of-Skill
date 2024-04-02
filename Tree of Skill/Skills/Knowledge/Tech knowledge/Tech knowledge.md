@@ -1,10 +1,7 @@
-[[Signal communications]]
 
-[[Programming]]
+[[Electrical engineering]]
 
-[[Programs]]
-
-[[Electronics work]]
+[[Computer Science]]
 
 [[Memory]]
 

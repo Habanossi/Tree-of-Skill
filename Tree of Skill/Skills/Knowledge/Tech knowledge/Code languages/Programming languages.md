@@ -3,4 +3,5 @@
 [[C]]
 [[C#]]
 [[Ruby]]
+[[JavaScript]]
 
