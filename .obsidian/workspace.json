@@ -11,15 +11,24 @@
             "id": "8cf2cc2fd39fa612",
             "type": "leaf",
             "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "460f624071bc994e",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Tree of Skill/Resources/Inventory/Plants.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Tree of Skill/Resources/Inventory/Plants.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Tree of Skill/Resources/Inventory/Plants.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Tree of Skill/Resources/Inventory/Plants.md"
               }
             }
           },
@@ -172,47 +181,48 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "juggl:Juggl global graph": false
+      "juggl:Juggl global graph": false,
+      "notion-like-tables:Create loom": false
     }
   },
-  "active": "8cf2cc2fd39fa612",
+  "active": "2b75e6ee26123d3d",
   "lastOpenFiles": [
-    "Notes of ideas.md",
-    "Tree of Skill/Skills/Proficiency/Cooking/Chickpeas.md",
-    "Tree of Skill/Skills/Proficiency/Cooking/Chickpea curry.md",
-    "Tree of Skill/Skills/Ability/Team sports.md",
-    "Tree of Skill/Skills/Ability/Movement.md",
-    "Tree of Skill/Skills/Ability/Ability.md",
-    "Tree of Skill/Skills/Proficiency/Cooking/Cooking.md",
-    "Tree of Skill/Skills/Proficiency/Cooking/Chicken.md",
-    "Tree of Skill/Skills/Proficiency/Cooking/Pippurisinappikermakana.md",
-    "Tree of Skill/Skills/Proficiency/Cooking/Sauces.md",
-    "Tree of Skill/Skills/Proficiency/Cooking/Curry.md",
-    "Tree of Skill/Skills/Proficiency/Cooking/Cooked rice.md",
+    "Tree of Skill/Resources/Inventory/Arts.md",
+    "Tree of Skill/Resources/Inventory/Clothing.md",
+    "Tree of Skill/Resources/Inventory/Consumables.md",
+    "Tree of Skill/Resources/Inventory/Electronics.md",
+    "Tree of Skill/Resources/Inventory/Furniture.md",
+    "Tree of Skill/Resources/Inventory/Inventory.md",
+    "Tree of Skill/Resources/Inventory/Materials.md",
+    "Tree of Skill/Resources/Inventory/Miscellaneous.md",
+    "Tree of Skill/Resources/Inventory/Personal items.md",
+    "Tree of Skill/Resources/Inventory/Plants.md",
+    "Tree of Skill/Resources/Inventory/Project Items.md",
+    "Tree of Skill/Resources/Inventory/Property.md",
+    "Tree of Skill/Resources/Inventory/Tools.md",
+    "Tree of Skill/Resources/Inventory/Useful items.md",
+    "Tree of Skill/Resources/Inventory/Vehicles.md",
+    "Tree of Skill/Resources/Inventory/Work items.md",
+    "Templates/Templates.md",
+    "Templates/Language template.md",
+    "Templates/Growing template.md",
+    "Templates/Cooking template.md",
+    "Templates/Crafting template.md",
+    "Templates/General template.md",
+    "Templates/BWT template.md",
+    "Tree of Skill/Skills/Proficiency/Cooking/Breakfasts.md",
+    "Tree of Skill/Skills/Proficiency/Cooking/Raspberry Sour.md",
     "Tree of Skill/Skills/Knowledge/Tech knowledge/Matlab.md",
-    "Tree of Skill/Skills/Knowledge/Tech knowledge/Engineer knowledge/Engineering programs/Programs.md",
-    "Tree of Skill/Skills/Knowledge/Tech knowledge/Engineer knowledge/Engineering programs/WinSCP.md",
-    "Tree of Skill/Skills/Knowledge/Tech knowledge/Engineer knowledge/Engineering programs/UAExpert.md",
-    "Tree of Skill/Skills/Knowledge/Tech knowledge/Engineer knowledge/Engineering programs/puTTY.md",
-    "Tree of Skill/Skills/Knowledge/Tech knowledge/Engineer knowledge/CANBUS.md",
-    "Tree of Skill/Skills/Knowledge/Tech knowledge/Engineer knowledge/Electronics work.md",
-    "Tree of Skill/Skills/Knowledge/Tech knowledge/Engineer knowledge/Kwant joystick.md",
-    "Tree of Skill/Skills/Knowledge/Tech knowledge/Engineer knowledge/Lilaas joystick.md",
-    "Tree of Skill/Skills/Knowledge/Tech knowledge/Engineer knowledge/Terminating resistor.md",
-    "Tree of Skill/Skills/Knowledge/Tech knowledge/Engineer knowledge/Signal communications.md",
-    "Tree of Skill/Skills/Knowledge/Tech knowledge/Engineer knowledge/Serial communication.md",
-    "Tree of Skill/Skills/Knowledge/Tech knowledge/Engineer knowledge/SD cards.md",
-    "Tree of Skill/Skills/Knowledge/Tech knowledge/Engineer knowledge/Memory.md",
+    "Untitled.loom",
+    "Projects/Small LAN",
+    "Projects",
+    "Daily notes",
     "Tree of Skill/Skills/Proficiency/Art/Music/Instruments",
     "Tree of Skill/Skills/Proficiency/Art/Music",
     "Tree of Skill/Skills/Proficiency/Cooking/Baking",
     "Tree of Skill/Skills/Knowledge/Languages/Germanic languages/English",
     "Tree of Skill/Skills/Knowledge/Languages/Germanic languages",
     "Tree of Skill/Skills/Proficiency/Repairing",
-    "Tree of Skill/Skills/Proficiency/Building",
-    "Tree of Skill/Skills/Proficiency/Crafting",
-    "Tree of Skill/Skills/Knowledge/Languages/Germanic languages/German",
-    "Tree of Skill/Skills/Knowledge/Languages",
     "Untitled.canvas"
   ]
 }
