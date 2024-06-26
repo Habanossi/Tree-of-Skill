@@ -1,1 +1,2 @@
 [[pymodbus]]
+[[py2exe]]
