@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tree of Skill/Resources/Inventory/Plants.md",
+                "file": "Trees.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tree of Skill/Resources/Inventory/Plants.md",
+                "file": "Trees.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tree of Skill/Resources/Inventory/Plants.md",
+                "file": "Trees.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tree of Skill/Resources/Inventory/Plants.md"
+                "file": "Trees.md"
               }
             }
           },
@@ -185,34 +185,34 @@
       "notion-like-tables:Create loom": false
     }
   },
-  "active": "2b75e6ee26123d3d",
+  "active": "460f624071bc994e",
   "lastOpenFiles": [
+    "Flora.md",
+    "Trees.md",
+    "Tree of Skill/Experiences/Achievements/Explorer.md",
+    "Fauna.md",
+    "Other.md",
+    "Reptiles.md",
+    "Birds.md",
+    "Mammals.md",
+    "Insects.md",
+    "Fish.md",
+    "Amphibians.md",
+    "Tree of Skill/Experiences/Achievements/Culture.md",
+    "Tree of Skill/Skills/Knowledge/Culture/Film/Movies.md",
+    "Tree of Skill/Skills/Knowledge/Culture/Film/Film.md",
+    "Tree of Skill/Experiences/Achievements/Cuisine.md",
+    "Tree of Skill/Experiences/Achievements/Extreme.md",
+    "Tree of Skill/Experiences/Achievements/Achievements.md",
+    "Tree of Skill/Experiences/Achievements/Age.md",
+    "Tree of Skill/Experiences/Achievements/Grind.md",
+    "Tree of Skill/Experiences/Achievements/Traditional.md",
+    "Tree of Skill/Experiences/Achievements/Social.md",
+    "Tree of Skill/Resources/Inventory/Plants.md",
     "Tree of Skill/Resources/Inventory/Arts.md",
     "Tree of Skill/Resources/Inventory/Clothing.md",
     "Tree of Skill/Resources/Inventory/Consumables.md",
     "Tree of Skill/Resources/Inventory/Electronics.md",
-    "Tree of Skill/Resources/Inventory/Furniture.md",
-    "Tree of Skill/Resources/Inventory/Inventory.md",
-    "Tree of Skill/Resources/Inventory/Materials.md",
-    "Tree of Skill/Resources/Inventory/Miscellaneous.md",
-    "Tree of Skill/Resources/Inventory/Personal items.md",
-    "Tree of Skill/Resources/Inventory/Plants.md",
-    "Tree of Skill/Resources/Inventory/Project Items.md",
-    "Tree of Skill/Resources/Inventory/Property.md",
-    "Tree of Skill/Resources/Inventory/Tools.md",
-    "Tree of Skill/Resources/Inventory/Useful items.md",
-    "Tree of Skill/Resources/Inventory/Vehicles.md",
-    "Tree of Skill/Resources/Inventory/Work items.md",
-    "Templates/Templates.md",
-    "Templates/Language template.md",
-    "Templates/Growing template.md",
-    "Templates/Cooking template.md",
-    "Templates/Crafting template.md",
-    "Templates/General template.md",
-    "Templates/BWT template.md",
-    "Tree of Skill/Skills/Proficiency/Cooking/Breakfasts.md",
-    "Tree of Skill/Skills/Proficiency/Cooking/Raspberry Sour.md",
-    "Tree of Skill/Skills/Knowledge/Tech knowledge/Matlab.md",
     "Untitled.loom",
     "Projects/Small LAN",
     "Projects",

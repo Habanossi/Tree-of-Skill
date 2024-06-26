@@ -1,0 +1,7 @@
+[[Birds]]
+[[Mammals]]
+[[Insects]]
+[[Fish]]
+[[Amphibians]]
+[[Reptiles]]
+[[Other]]
