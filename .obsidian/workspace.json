@@ -4,31 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "8381f61569fa23a7",
+        "id": "3b5fca4ee055111a",
         "type": "tabs",
         "children": [
           {
-            "id": "8cf2cc2fd39fa612",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "460f624071bc994e",
+            "id": "d772ffca26983661",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Trees.md",
+                "file": "Tree of Skill/Experiences/Achievements/Explorer/Other.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Trees.md",
+                "file": "Tree of Skill/Experiences/Achievements/Explorer/Other.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Trees.md",
+                "file": "Tree of Skill/Experiences/Achievements/Explorer/Other.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Trees.md"
+                "file": "Tree of Skill/Experiences/Achievements/Explorer/Other.md"
               }
             }
           },
@@ -181,15 +172,29 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "juggl:Juggl global graph": false,
-      "notion-like-tables:Create loom": false
+      "juggl:Juggl global graph": false
     }
   },
-  "active": "8cf2cc2fd39fa612",
+  "active": "d772ffca26983661",
   "lastOpenFiles": [
-    "Untitled 1.loom",
-    "Tree of Skill/Experiences/Achievements/Explorer/Flora/Trees.md",
+    "Tree of Skill/Experiences/Achievements/Explorer/Reptiles.md",
+    "Tree of Skill/Experiences/Achievements/Explorer/Amphibians.md",
+    "Tree of Skill/Experiences/Achievements/Explorer/Birds.md",
+    "Tree of Skill/Experiences/Achievements/Explorer/Insects.md",
+    "Tree of Skill/Experiences/Achievements/Explorer/Mammals.md",
+    "Tree of Skill/Experiences/Achievements/Explorer/Fish.md",
+    "Tree of Skill/Experiences/Achievements/Explorer/Trees.md",
+    "Tree of Skill/Experiences/Achievements/Explorer/Fauna.md",
+    "Notes of ideas.md",
+    "Tree of Skill/Experiences/Achievements/Explorer",
+    "Tree of Skill/Experiences/Achievements/Explorer/Flora.md",
+    "Short term goals.md",
     "Tree of Skill/Experiences/Achievements/Explorer/Flora/Flora.md",
+    "Tree of Skill/Experiences/Achievements/Explorer/Flora/Trees.md",
+    "Tree of Skill/Experiences/Countries visited - X.md",
+    "Tree of Skill/Experiences/Achievements/Explorer/Explorer.md",
+    "Tree of Skill/Experiences/Achievements/Explorer/Other.md",
+    "Untitled 1.loom",
     "Tree of Skill/Experiences/Achievements/Explorer/Flora",
     "Tree of Skill/Experiences/Achievements/Explorer/Fauna/Insects.md",
     "Tree of Skill/Experiences/Achievements/Explorer/Fauna/Fauna.md",
@@ -197,48 +202,17 @@
     "Tree of Skill/Experiences/Achievements/Explorer/Fauna/Amphibians.md",
     "Tree of Skill/Experiences/Achievements/Explorer",
     "Tree of Skill/Experiences/Achievements/Explorer/Fauna",
-    "Short term goals.md",
     "Tree of Skill/Life.md",
     "Long term goals.md",
     "Tree of Skill/Skills/Ability/Running.md",
     "Tree of Skill/Skills/Ability/Long-distance running.md",
     "Tree of Skill/Experiences/Achievements/Achievements.md",
     "Tree of Skill/Resources/Inventory/Extra PC Components.md",
-    "Tree of Skill/Resources/Inventory/EKI, Fiat Panda 2010.md",
-    "Tree of Skill/Skills/Proficiency/Cooking/Sauces.md",
-    "Tree of Skill/Skills/Proficiency/Cooking/Curry.md",
-    "Tree of Skill/Skills/Knowledge/Nature Sciences/Mathematics/Mathematics.md",
-    "Tree of Skill/Skills/Knowledge/Nature Sciences/Mathematics/College Algebra.md",
-    "Tree of Skill/Skills/Knowledge/Nature Sciences/Mathematics/Algebra.md",
-    "Tree of Skill/Skills/Knowledge/Nature Sciences/Mathematics/Algebra basics.md",
-    "Tree of Skill/Skills/Knowledge/Nature Sciences/Mathematics/Algebra 2.md",
-    "Tree of Skill/Skills/Knowledge/Nature Sciences/Physics.md",
-    "Tree of Skill/Skills/Knowledge/Nature Sciences/Nature Sciences.md",
     "Tree of Skill/Skills/Knowledge/Nature Sciences/Mathematics",
     "Tree of Skill/Skills/Knowledge/Nature Sciences",
-    "Templates/Math template.md",
-    "JavaScript.md",
-    "Functions.md",
-    "Electrical engineering.md",
-    "Computer Science.md",
-    "Flora.md",
-    "Trees.md",
-    "Tree of Skill/Experiences/Achievements/Explorer.md",
-    "Fauna.md",
-    "Other.md",
-    "Reptiles.md",
-    "Birds.md",
-    "Mammals.md",
-    "Insects.md",
-    "Fish.md",
-    "Untitled.loom",
+    "Tree of Skill/Skills/Knowledge/Naturvetenskaper",
     "Projects/Small LAN",
     "Projects",
-    "Daily notes",
-    "Tree of Skill/Skills/Proficiency/Art/Music/Instruments",
-    "Tree of Skill/Skills/Proficiency/Art/Music",
-    "Tree of Skill/Skills/Proficiency/Cooking/Baking",
-    "Tree of Skill/Skills/Knowledge/Languages/Germanic languages/English",
     "Untitled.canvas"
   ]
 }
