@@ -6,4 +6,5 @@
 [[Nature Sciences]]
 [[Literature]]
 [[Languages]]
-[[Culture]]
+[[Culture knowledge]]
+

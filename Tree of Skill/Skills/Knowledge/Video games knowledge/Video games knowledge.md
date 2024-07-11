@@ -1,6 +1,0 @@
-[[League of Legends]]
-[[Path of Exile]]
-[[Teamfight Tactics]]
-[[Starcraft 2]]
-[[Counter Strike]]
-[[Dota 2]]
