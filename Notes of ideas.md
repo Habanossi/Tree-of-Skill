@@ -1,3 +1,6 @@
+### ADD WORKPLACES, SCHOOLS AND SUCH to different knowledge, ability or proficiency fields. example add metalworking companies, metalworker and metalworker school to metalworking proficiency
+### a specialization inside of that proficiency may equal to or require or benefit from a specialization in studies. A doctorate in some specific tech field, for example.
+
 
 
 
