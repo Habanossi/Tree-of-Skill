@@ -11,8 +11,12 @@
             "id": "d772ffca26983661",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Tree of Skill/Skills/Knowledge/Nature Sciences/Biology/Physiology.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Tree of Skill/Skills/Knowledge/Nature Sciences/Biology/Physiology.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Tree of Skill/Skills/Knowledge/Nature Sciences/Biology/Physiology.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Tree of Skill/Skills/Knowledge/Nature Sciences/Biology/Physiology.md"
+              }
             }
           },
           {
@@ -167,44 +175,43 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "d772ffca26983661",
+  "active": "2b75e6ee26123d3d",
   "lastOpenFiles": [
-    "Tree of Skill/Skills/Knowledge/Culture/Games/Board games knowledge/Chess.md",
-    "Tree of Skill/Skills/Knowledge/Culture/Games/Video games knowledge/FPS games.md",
-    "Tree of Skill/Skills/Knowledge/Culture/Games/Video games knowledge/CS2.md",
-    "Tree of Skill/Skills/Knowledge/Culture/Games/Video games knowledge/Counter Strike.md",
-    "Tree of Skill/Skills/Knowledge/Culture/Games/Video games knowledge/Video games knowledge.md",
-    "Tree of Skill/Skills/Knowledge/Culture/Games/Video games knowledge/MOBAs/Dota 2.md",
-    "Tree of Skill/Skills/Knowledge/Culture/Games/Video games knowledge/MOBAs/MOBAs.md",
-    "Tree of Skill/Skills/Knowledge/Culture/Games/Video games knowledge/Action RPGs/Action RPGs?.md",
-    "Tree of Skill/Skills/Knowledge/Culture/Games/Video games knowledge/Action RPGs",
-    "Tree of Skill/Skills/Knowledge/Culture/Games/Games knowledge.md",
-    "Tree of Skill/Skills/Knowledge/Culture/Games/Video games knowledge/Action RPGs/Path of Exile.md",
-    "Tree of Skill/Skills/Knowledge/Culture/Games/Video games knowledge/MOBAs",
-    "Tree of Skill/Skills/Knowledge/Culture/Culture knowledge.md",
-    "Tree of Skill/Skills/Knowledge/Culture/Literature/Literature knowledge.md",
-    "Tree of Skill/Skills/Knowledge/Culture/Literature/Literature.md",
-    "Tree of Skill/Skills/Knowledge/Culture/Literature/Books.md",
-    "Tree of Skill/Skills/Knowledge/Culture/Film/Film knowledge.md",
+    "Tree of Skill/Skills/Knowledge/Nature Sciences/Biology/Paleontology.md",
+    "Tree of Skill/Skills/Knowledge/Nature Sciences/Biology/Agricultural Biology.md",
+    "Tree of Skill/Skills/Knowledge/Nature Sciences/Biology/Biology.md",
+    "Tree of Skill/Skills/Knowledge/Nature Sciences/Biology",
+    "Tree of Skill/Skills/Knowledge/Nature Sciences/Biology/Forensic Biology.md",
+    "Tree of Skill/Skills/Knowledge/Nature Sciences/Biology/Environmental Biology.md",
+    "Tree of Skill/Skills/Knowledge/Nature Sciences/Biology/Developmental Biology.md",
+    "Tree of Skill/Skills/Knowledge/Nature Sciences/Biology/Immunology.md",
+    "Tree of Skill/Skills/Knowledge/Nature Sciences/Biology/Neuroscience.md",
+    "Tree of Skill/Skills/Knowledge/Nature Sciences/Biology/Marine Biology.md",
+    "Tree of Skill/Skills/Knowledge/Nature Sciences/Biology/Biophysics.md",
+    "Tree of Skill/Skills/Knowledge/Nature Sciences/Biology/Biochemistry.md",
+    "Tree of Skill/Skills/Knowledge/Nature Sciences/Biology/Anatomy.md",
+    "Tree of Skill/Skills/Knowledge/Nature Sciences/Biology/Physiology.md",
+    "Tree of Skill/Skills/Knowledge/Nature Sciences/Biology/Ecology.md",
+    "Tree of Skill/Skills/Knowledge/Nature Sciences/Biology/Zoology.md",
+    "Tree of Skill/Skills/Knowledge/Nature Sciences/Biology/Botany.md",
+    "Tree of Skill/Skills/Knowledge/Nature Sciences/Biology/Microbiology.md",
+    "Tree of Skill/Skills/Knowledge/Nature Sciences/Biology/Evolutionary Biology.md",
+    "Tree of Skill/Skills/Knowledge/Nature Sciences/Biology/Genetics.md",
+    "Tree of Skill/Skills/Knowledge/Nature Sciences/Biology/Cell Biology.md",
+    "Tree of Skill/Skills/Knowledge/Nature Sciences/Biology/Molecular Biology.md",
+    "Tree of Skill/Skills/Knowledge/Nature Sciences/Nature Sciences.md",
     "Tree of Skill/Skills/Knowledge/Knowledge.md",
-    "Tree of Skill/Experiences/Achievements/Culture.md",
-    "Tree of Skill/Skills/Knowledge/Culture/Games/Board games knowledge/Board games knowledge.md",
-    "Tree of Skill/Skills/Knowledge/Culture/Games/Board games knowledge/Go.md",
+    "Tree of Skill/Skills/Knowledge/Economics.md",
+    "Tree of Skill/Skills/Knowledge/Microeconomics.md",
+    "Tree of Skill/Skills/Knowledge/Culture/Games/Video games knowledge/Action RPGs",
+    "Tree of Skill/Skills/Knowledge/Culture/Games/Video games knowledge/MOBAs",
     "Tree of Skill/Skills/Knowledge/Culture/Games",
-    "Notes of ideas.md",
-    "Tree of Skill/Skills/Knowledge/Languages/Japonic languages/Katakana.md",
-    "Tree of Skill/Skills/Knowledge/Languages/Japonic languages/Hiragana.md",
-    "Tree of Skill/Skills/Knowledge/Tech knowledge/JavaScript.md",
-    "Tree of Skill/Skills/Knowledge/Tech knowledge/Computer Science.md",
-    "Tree of Skill/Skills/Knowledge/Tech knowledge/Electrical engineering.md",
-    "Tree of Skill/Skills/Proficiency/Repairing/Repairing.md",
     "Tree of Skill/Skills/Knowledge/Languages/Japonic languages",
     "Tree of Skill/Experiences/Achievements/Explorer",
     "Untitled 1.loom",
     "Tree of Skill/Experiences/Achievements/Explorer/Flora",
     "Tree of Skill/Experiences/Achievements/Explorer",
     "Tree of Skill/Experiences/Achievements/Explorer/Fauna",
-    "Tree of Skill/Skills/Knowledge/Nature Sciences/Mathematics",
     "Untitled.canvas"
   ]
 }

@@ -1,4 +1,0 @@
-[[Medicine]]
-[[Zoology]]
-[[Ecology]]
-

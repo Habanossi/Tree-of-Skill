@@ -7,4 +7,7 @@
 [[Literature]]
 [[Languages]]
 [[Culture knowledge]]
+[[History]]
+[[Economics]]
+[[Philosophy]]
 
