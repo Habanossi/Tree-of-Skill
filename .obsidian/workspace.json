@@ -11,12 +11,8 @@
             "id": "d772ffca26983661",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tree of Skill/Experiences/Achievements/Explorer/Other.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tree of Skill/Experiences/Achievements/Explorer/Other.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tree of Skill/Experiences/Achievements/Explorer/Other.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Tree of Skill/Experiences/Achievements/Explorer/Other.md"
-              }
+              "state": {}
             }
           },
           {
@@ -177,42 +169,42 @@
   },
   "active": "d772ffca26983661",
   "lastOpenFiles": [
-    "Tree of Skill/Experiences/Achievements/Explorer/Reptiles.md",
-    "Tree of Skill/Experiences/Achievements/Explorer/Amphibians.md",
-    "Tree of Skill/Experiences/Achievements/Explorer/Birds.md",
-    "Tree of Skill/Experiences/Achievements/Explorer/Insects.md",
-    "Tree of Skill/Experiences/Achievements/Explorer/Mammals.md",
-    "Tree of Skill/Experiences/Achievements/Explorer/Fish.md",
-    "Tree of Skill/Experiences/Achievements/Explorer/Trees.md",
-    "Tree of Skill/Experiences/Achievements/Explorer/Fauna.md",
+    "Tree of Skill/Skills/Knowledge/Languages/Japonic languages/Japanese.md",
+    "Hiragana.md",
+    "Katakana.md",
+    "Tree of Skill/Skills/Knowledge/Languages/Japonic languages/Japanese C1.md",
+    "Tree of Skill/Skills/Knowledge/Languages/Japonic languages/Japanese B2.md",
+    "Tree of Skill/Skills/Knowledge/Languages/Japonic languages/Japanese B1.md",
+    "Tree of Skill/Skills/Knowledge/Languages/Japonic languages/Japanese A2.md",
+    "Tree of Skill/Skills/Knowledge/Languages/Japonic languages/Japanese A1.md",
+    "Tree of Skill/Skills/Knowledge/Languages/Japonic languages/Japanese C2.md",
+    "Tree of Skill/Skills/Knowledge/Languages/Germanic languages/German/German A2.md",
+    "Tree of Skill/Skills/Knowledge/Languages/Japonic languages/Japonic languages.md",
+    "Tree of Skill/Skills/Knowledge/Languages/Germanic languages/German/German.md",
+    "Tree of Skill/Skills/Knowledge/Languages/Germanic languages/German/German A1.md",
+    "Templates/Language template.md",
+    "Tree of Skill/Skills/Knowledge/Languages/Languages.md",
+    "Tree of Skill/Skills/Knowledge/Languages/Japonic languages",
+    "Tree of Skill/Skills/Knowledge/Nature Sciences/Mathematics/Pre-Algebra.md",
+    "Tree of Skill/Resources/Money.md",
+    "Tree of Skill/Resources/Personal Economy.md",
+    "Tree of Skill/Experiences/Experiences.md",
+    "Tree of Skill/Experiences/Sensory Experiences.md",
+    "Tree of Skill/Experiences/Musical Experiences.md",
+    "Tree of Skill/Experiences/High scores.md",
+    "Tree of Skill/Life.md",
+    "Tree of Skill/Resources/Resources.md",
     "Notes of ideas.md",
-    "Tree of Skill/Experiences/Achievements/Explorer",
-    "Tree of Skill/Experiences/Achievements/Explorer/Flora.md",
-    "Short term goals.md",
-    "Tree of Skill/Experiences/Achievements/Explorer/Flora/Flora.md",
-    "Tree of Skill/Experiences/Achievements/Explorer/Flora/Trees.md",
     "Tree of Skill/Experiences/Countries visited - X.md",
-    "Tree of Skill/Experiences/Achievements/Explorer/Explorer.md",
-    "Tree of Skill/Experiences/Achievements/Explorer/Other.md",
+    "Tree of Skill/Experiences/Achievements/Explorer",
     "Untitled 1.loom",
     "Tree of Skill/Experiences/Achievements/Explorer/Flora",
-    "Tree of Skill/Experiences/Achievements/Explorer/Fauna/Insects.md",
-    "Tree of Skill/Experiences/Achievements/Explorer/Fauna/Fauna.md",
-    "Tree of Skill/Experiences/Achievements/Explorer/Fauna/Fish.md",
-    "Tree of Skill/Experiences/Achievements/Explorer/Fauna/Amphibians.md",
     "Tree of Skill/Experiences/Achievements/Explorer",
     "Tree of Skill/Experiences/Achievements/Explorer/Fauna",
-    "Tree of Skill/Life.md",
-    "Long term goals.md",
-    "Tree of Skill/Skills/Ability/Running.md",
-    "Tree of Skill/Skills/Ability/Long-distance running.md",
-    "Tree of Skill/Experiences/Achievements/Achievements.md",
-    "Tree of Skill/Resources/Inventory/Extra PC Components.md",
     "Tree of Skill/Skills/Knowledge/Nature Sciences/Mathematics",
     "Tree of Skill/Skills/Knowledge/Nature Sciences",
     "Tree of Skill/Skills/Knowledge/Naturvetenskaper",
     "Projects/Small LAN",
-    "Projects",
     "Untitled.canvas"
   ]
 }

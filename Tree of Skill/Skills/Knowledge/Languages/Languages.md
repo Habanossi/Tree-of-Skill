@@ -1,2 +1,3 @@
 
 [[Germanic languages]]
+[[Japonic languages]]
