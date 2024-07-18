@@ -1,5 +1,0 @@
-[[Path of Exile]]
-[[Path of Exile 2]]
-[[Diablo 2]]
-[[Diablo 3]]
-[[Diablo 4]]
