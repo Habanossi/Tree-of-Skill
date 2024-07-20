@@ -1,4 +1,4 @@
-#learned
+#available 
 Knowing how to cook is a part of [[Self sufficiency]]
 
 Cooking proficiency can be measured on a scale from 0-3.
@@ -19,4 +19,5 @@ Cooking includes things like:
 [[Fermentation]]
 [[Baking]]
 [[Sauces]]
+[[Snacks]]
 

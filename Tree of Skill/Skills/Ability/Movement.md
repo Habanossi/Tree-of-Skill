@@ -1,4 +1,4 @@
-#learned
+#available 
 [[Running]]
 [[Bodyweight training]]
 [[Swimming]]
@@ -7,3 +7,4 @@
 [[Bouldering]]
 [[Racket sports]]
 [[Team sports]]
+[[Cycling]]

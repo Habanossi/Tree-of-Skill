@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes of ideas.md",
+                "file": "Templates/BWT template.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes of ideas.md",
+                "file": "Templates/BWT template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes of ideas.md",
+                "file": "Templates/BWT template.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes of ideas.md"
+                "file": "Templates/BWT template.md"
               }
             }
           },
@@ -166,6 +166,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "notion-like-tables:Create loom": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -177,32 +178,33 @@
   },
   "active": "d772ffca26983661",
   "lastOpenFiles": [
-    "Tree of Skill/Skills/Knowledge/Nature Sciences/Biology/Physiology.md",
-    "Tree of Skill/Skills/Knowledge/Nature Sciences/Biology/Paleontology.md",
-    "Tree of Skill/Skills/Knowledge/Nature Sciences/Biology/Agricultural Biology.md",
-    "Tree of Skill/Skills/Knowledge/Nature Sciences/Biology/Biology.md",
+    "Templates/Cooking template.md",
+    "Templates/Crafting template.md",
+    "Templates/General template.md",
+    "Tree of Skill/Experiences/Achievements/Explorer/Amphibians.md",
+    "Tree of Skill/Skills/Proficiency/Cooking/Cooking.md",
+    "Snacks.md",
+    "Roasted nuts.md",
+    "Templates/Language template.md",
+    "Danish.md",
+    "Tree of Skill/Skills/Knowledge/Languages/Germanic languages/Germanic languages.md",
+    "Norwegian.md",
+    "Norwegian A1.md",
+    "Norwegian A2.md",
+    "Norwegian B1.md",
+    "Norwegian B2.md",
+    "Norwegian C1.md",
+    "Norwegian C2.md",
+    "Swedish.md",
+    "Swedish A1.md",
+    "Swedish A2.md",
+    "Swedish B1.md",
+    "Swedish B2.md",
+    "Swedish C1.md",
+    "Swedish C2.md",
+    "Tree of Skill/Skills/Ability/Cycling.md",
+    "Templates/Ability template.md",
     "Tree of Skill/Skills/Knowledge/Nature Sciences/Biology",
-    "Tree of Skill/Skills/Knowledge/Nature Sciences/Biology/Forensic Biology.md",
-    "Tree of Skill/Skills/Knowledge/Nature Sciences/Biology/Environmental Biology.md",
-    "Tree of Skill/Skills/Knowledge/Nature Sciences/Biology/Developmental Biology.md",
-    "Tree of Skill/Skills/Knowledge/Nature Sciences/Biology/Immunology.md",
-    "Tree of Skill/Skills/Knowledge/Nature Sciences/Biology/Neuroscience.md",
-    "Tree of Skill/Skills/Knowledge/Nature Sciences/Biology/Marine Biology.md",
-    "Tree of Skill/Skills/Knowledge/Nature Sciences/Biology/Biophysics.md",
-    "Tree of Skill/Skills/Knowledge/Nature Sciences/Biology/Biochemistry.md",
-    "Tree of Skill/Skills/Knowledge/Nature Sciences/Biology/Anatomy.md",
-    "Tree of Skill/Skills/Knowledge/Nature Sciences/Biology/Ecology.md",
-    "Tree of Skill/Skills/Knowledge/Nature Sciences/Biology/Zoology.md",
-    "Tree of Skill/Skills/Knowledge/Nature Sciences/Biology/Botany.md",
-    "Tree of Skill/Skills/Knowledge/Nature Sciences/Biology/Microbiology.md",
-    "Tree of Skill/Skills/Knowledge/Nature Sciences/Biology/Evolutionary Biology.md",
-    "Tree of Skill/Skills/Knowledge/Nature Sciences/Biology/Genetics.md",
-    "Tree of Skill/Skills/Knowledge/Nature Sciences/Biology/Cell Biology.md",
-    "Tree of Skill/Skills/Knowledge/Nature Sciences/Biology/Molecular Biology.md",
-    "Tree of Skill/Skills/Knowledge/Nature Sciences/Nature Sciences.md",
-    "Tree of Skill/Skills/Knowledge/Knowledge.md",
-    "Tree of Skill/Skills/Knowledge/Economics.md",
-    "Tree of Skill/Skills/Knowledge/Microeconomics.md",
     "Tree of Skill/Skills/Knowledge/Culture/Games/Video games knowledge/Action RPGs",
     "Tree of Skill/Skills/Knowledge/Culture/Games/Video games knowledge/MOBAs",
     "Tree of Skill/Skills/Knowledge/Culture/Games",

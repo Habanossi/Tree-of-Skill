@@ -13,5 +13,5 @@ Contains information about {{title}}
 
 
 **Resources**
-Contains {{titles}} resources
+Contains {{title}} resources
 
