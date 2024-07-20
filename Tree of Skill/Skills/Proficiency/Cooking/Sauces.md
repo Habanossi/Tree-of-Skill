@@ -1,2 +1,2 @@
 [[Curry]]
-[[Pippurisinappikermakana]]
+[[Pepper Mustard Chicken]]

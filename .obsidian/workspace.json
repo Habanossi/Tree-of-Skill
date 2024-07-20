@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "3b5fca4ee055111a",
+        "id": "3a741cdb8240e14f",
         "type": "tabs",
         "children": [
           {
-            "id": "d772ffca26983661",
+            "id": "f3cf3da219b6b670",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Templates/BWT template.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/BWT template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/BWT template.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Templates/BWT template.md"
-              }
+              "state": {}
             }
           },
           {
@@ -176,34 +168,34 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "d772ffca26983661",
+  "active": "2b75e6ee26123d3d",
   "lastOpenFiles": [
-    "Templates/Cooking template.md",
-    "Templates/Crafting template.md",
-    "Templates/General template.md",
-    "Tree of Skill/Experiences/Achievements/Explorer/Amphibians.md",
+    "Projects/Mushroom starter kit.md",
+    "Projects/Raspberry pi zero 2W.md",
+    "Tree of Skill/Skills/Knowledge/Languages/Languages.md",
+    "Tree of Skill/Skills/Proficiency/Art/Music/Instruments/Instruments.md",
+    "Stringed instruments.md",
+    "Bass guitar.md",
+    "Guitar.md",
+    "Percussion instruments.md",
+    "Drums.md",
+    "Brass instruments.md",
+    "Tuba.md",
+    "Trumpet.md",
+    "Tree of Skill/Skills/Proficiency/Art/Music/Music.md",
+    "Templates/Instrument template.md",
+    "Tree of Skill/Skills/Proficiency/Art/Music/Instruments/Woodwind instruments.md",
+    "Tree of Skill/Skills/Proficiency/Art/Art.md",
     "Tree of Skill/Skills/Proficiency/Cooking/Cooking.md",
-    "Snacks.md",
-    "Roasted nuts.md",
-    "Templates/Language template.md",
-    "Danish.md",
-    "Tree of Skill/Skills/Knowledge/Languages/Germanic languages/Germanic languages.md",
-    "Norwegian.md",
-    "Norwegian A1.md",
-    "Norwegian A2.md",
-    "Norwegian B1.md",
-    "Norwegian B2.md",
-    "Norwegian C1.md",
-    "Norwegian C2.md",
-    "Swedish.md",
-    "Swedish A1.md",
-    "Swedish A2.md",
-    "Swedish B1.md",
-    "Swedish B2.md",
-    "Swedish C1.md",
-    "Swedish C2.md",
-    "Tree of Skill/Skills/Ability/Cycling.md",
-    "Templates/Ability template.md",
+    "Tree of Skill/Skills/Proficiency/Gardening.md",
+    "Growing tomatoes.md",
+    "Growing cucumbers.md",
+    "Growing chilies.md",
+    "Growing green beans.md",
+    "Growing garlic.md",
+    "Growing onions.md",
+    "Growing carrots.md",
+    "Growing potatoes.md",
     "Tree of Skill/Skills/Knowledge/Nature Sciences/Biology",
     "Tree of Skill/Skills/Knowledge/Culture/Games/Video games knowledge/Action RPGs",
     "Tree of Skill/Skills/Knowledge/Culture/Games/Video games knowledge/MOBAs",

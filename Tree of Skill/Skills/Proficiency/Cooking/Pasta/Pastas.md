@@ -5,4 +5,4 @@
 [[Sausage spinach cream pasta]]
 [[Mushroom Carbonara]]
 [[Sausage tomato pasta]]
-[[Bolognese - 2]]
+[[Bolognese]]

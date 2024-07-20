@@ -10,7 +10,7 @@ Cooking proficiency can be measured on a scale from 0-3.
 
 Cooking includes things like:
 [[Soups]]
-[[ Brewing]]
+[[Brewing]]
 [[Pastas]]
 [[Stir-frys]]
 [[Breakfasts]]

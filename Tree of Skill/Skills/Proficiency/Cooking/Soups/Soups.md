@@ -1,3 +1,6 @@
 [[French onion soup]]
 [[Tomato soup]]
 [[Beet soup]]
+[[Salmon soup]]
+[[Minced meat soup]]
+[[Cauliflower soup]]
