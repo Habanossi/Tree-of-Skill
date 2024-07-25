@@ -11,8 +11,12 @@
             "id": "f3cf3da219b6b670",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Tree of Skill/Skills/Ability/Running.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Tree of Skill/Skills/Ability/Running.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Tree of Skill/Skills/Ability/Running.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Tree of Skill/Skills/Ability/Running.md"
+              }
             }
           },
           {
@@ -158,7 +166,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "notion-like-tables:Create loom": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -168,8 +175,9 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "2b75e6ee26123d3d",
+  "active": "f3cf3da219b6b670",
   "lastOpenFiles": [
+    "Tree of Skill/Skills/Ability/Movement.md",
     "Projects/Mushroom starter kit.md",
     "Projects/Raspberry pi zero 2W.md",
     "Tree of Skill/Skills/Knowledge/Languages/Languages.md",
@@ -195,7 +203,6 @@
     "Growing garlic.md",
     "Growing onions.md",
     "Growing carrots.md",
-    "Growing potatoes.md",
     "Tree of Skill/Skills/Knowledge/Nature Sciences/Biology",
     "Tree of Skill/Skills/Knowledge/Culture/Games/Video games knowledge/Action RPGs",
     "Tree of Skill/Skills/Knowledge/Culture/Games/Video games knowledge/MOBAs",
