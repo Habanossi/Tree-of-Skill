@@ -6,3 +6,5 @@
 [[Crafting]]
 [[Building]]
 [[Repairing]]
+[[Cleaning]]
+[[Using Appliances]]
