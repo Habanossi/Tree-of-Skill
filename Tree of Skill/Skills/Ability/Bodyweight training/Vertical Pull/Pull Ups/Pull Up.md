@@ -7,7 +7,7 @@ Current training sets for Pull Up:
 Leads to: 
 [[Ring Pull Up]]
 [[L-sit Pull Up]]
-[[C2B Pull Up]]
+[[Chest-to-bar Pull Up]]
 
 
 **Level**

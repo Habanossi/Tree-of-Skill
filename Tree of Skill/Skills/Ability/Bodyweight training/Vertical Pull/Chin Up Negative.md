@@ -4,7 +4,7 @@ Requirements:
 Goal sets to be achieved before continuing to next exercise:
 Currently used in training: Y/N
 Current training sets for Chin Up Negative:
-Leads to: [[Pull Up Negative]]
+Leads to: [[Pull Ups]]
 
 **Level**
 Current ROM level: 0

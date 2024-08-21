@@ -1,0 +1,7 @@
+[[Muscle Up Negative]]
+[[Kipping Muscle Up]]
+[[Muscle Up]]
+[[Wide Muscle Up]]
+[[Strict Bar Muscle Up]]
+[[L-Sit Muscle Up]]
+[[One Arm Straight Muscle Up]]
