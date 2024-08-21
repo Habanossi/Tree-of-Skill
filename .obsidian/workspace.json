@@ -11,12 +11,8 @@
             "id": "6b2505cca4082d8a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Pies.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pies.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pies.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Pies.md"
-              }
+              "state": {}
             }
           },
           {
@@ -176,12 +168,22 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "6b2505cca4082d8a",
+  "active": "2b75e6ee26123d3d",
   "lastOpenFiles": [
+    "0.md",
+    "5.md",
+    "10.md",
+    "18.md",
+    "20.md",
+    "Tree of Skill/Skills/Proficiency/Cooking/Apple pie.md",
+    "Tree of Skill/Skills/Proficiency/Cooking/Sweet pies.md",
+    "Tree of Skill/Skills/Proficiency/Cooking/Pies.md",
     "Tree of Skill/Skills/Proficiency/Cooking/Baking.md",
-    "Pies.md",
+    "Tree of Skill/Skills/Proficiency/Cooking/Baking/Pizza.md",
+    "Tree of Skill/Skills/Proficiency/Cooking/Pasta/Fish tomato pasta.md",
+    "Tree of Skill/Skills/Proficiency/Cooking/Cakes.md",
     "Tree of Skill/Skills/Proficiency/Cooking/Cooking.md",
-    "Jams.md",
+    "Tree of Skill/Skills/Proficiency/Cooking/Jams.md",
     "Tree of Skill/Skills/Proficiency/Cooking/Curry.md",
     "Tree of Skill/Skills/Proficiency/Cooking/Sauces.md",
     "Tree of Skill/Skills/Proficiency/Cooking/Fermentation.md",
@@ -193,21 +195,11 @@
     "Tree of Skill/Skills/Proficiency/Repairing/Bicycle repair.md",
     "Tree of Skill/Skills/Proficiency/Music/Stringed instruments.md",
     "Tree of Skill/Skills/Proficiency/Cooking/Roasted nuts.md",
-    "Tree of Skill/Skills/Proficiency/Cooking/Pesto pasta with green beans.md",
+    "Tree of Skill/Skills/Proficiency/Cooking/Pasta/Pesto pasta with green beans.md",
     "Tree of Skill/Skills/Proficiency/Music/Bass guitar.md",
     "Tree of Skill/Skills/Proficiency/Music",
-    "Tree of Skill/Skills/Proficiency/Cooking/Lentil tomato pasta.md",
-    "Tree of Skill/Skills/Proficiency/Gardening/Gardening.md",
-    "Tree of Skill/Skills/Proficiency/Gardening/Growing chilies.md",
+    "Tree of Skill/Skills/Proficiency/Cooking/Pasta/Lentil tomato pasta.md",
     "Tree of Skill/Skills/Proficiency/Gardening",
-    "Tree of Skill/Skills/Proficiency/Gardening/Growing carrots.md",
-    "Tree of Skill/Skills/Proficiency/Repairing/Car repair.md",
-    "Tree of Skill/Skills/Proficiency/Repairing/Vehicle repairs.md",
-    "Tree of Skill/Skills/Proficiency/Repairing/Repairing.md",
-    "Tree of Skill/Skills/Ability/Movement.md",
-    "Tree of Skill/Skills/Ability/Winter sports.md",
-    "Tree of Skill/Skills/Ability/Tennis.md",
-    "Tree of Skill/Skills/Ability/Swimming.md",
     "Tree of Skill/Skills/Ability/Running",
     "Tree of Skill/Skills/Ability/Bodyweight training/Vertical Push",
     "Tree of Skill/Skills/Ability/Bodyweight training/Vertical Pull/Pull Ups",
