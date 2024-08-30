@@ -11,8 +11,12 @@
             "id": "6b2505cca4082d8a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Drawing.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Drawing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Drawing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Drawing.md"
+              }
             }
           },
           {
@@ -168,44 +176,44 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "2b75e6ee26123d3d",
+  "active": "6b2505cca4082d8a",
   "lastOpenFiles": [
-    "0.md",
-    "5.md",
-    "10.md",
-    "18.md",
-    "20.md",
-    "Tree of Skill/Skills/Proficiency/Cooking/Apple pie.md",
-    "Tree of Skill/Skills/Proficiency/Cooking/Sweet pies.md",
-    "Tree of Skill/Skills/Proficiency/Cooking/Pies.md",
-    "Tree of Skill/Skills/Proficiency/Cooking/Baking.md",
-    "Tree of Skill/Skills/Proficiency/Cooking/Baking/Pizza.md",
-    "Tree of Skill/Skills/Proficiency/Cooking/Pasta/Fish tomato pasta.md",
-    "Tree of Skill/Skills/Proficiency/Cooking/Cakes.md",
-    "Tree of Skill/Skills/Proficiency/Cooking/Cooking.md",
-    "Tree of Skill/Skills/Proficiency/Cooking/Jams.md",
-    "Tree of Skill/Skills/Proficiency/Cooking/Curry.md",
-    "Tree of Skill/Skills/Proficiency/Cooking/Sauces.md",
-    "Tree of Skill/Skills/Proficiency/Cooking/Fermentation.md",
+    "Tree of Skill/Skills/Proficiency/Art/Art.md",
+    "Drawing.md",
+    "Tree of Skill/Skills/Proficiency/Crafting/Crafting.md",
+    "Tree of Skill/Skills/Proficiency/Art/Painting.md",
+    "Tree of Skill/Skills/Proficiency/Crafting/Sewing/Sewing.md",
+    "Tree of Skill/Skills/Proficiency/Crafting/Metalworking/Metalworking.md",
+    "Tree of Skill/Skills/Proficiency/Crafting/Sewing",
+    "Tree of Skill/Skills/Proficiency/Crafting/Leatherworking/Leatherworking.md",
+    "Tree of Skill/Skills/Proficiency/Crafting/Metalworking",
+    "Tree of Skill/Skills/Proficiency/Crafting/Carpentry/Carpentry tool proficiencies.md",
+    "Tree of Skill/Skills/Proficiency/Crafting/Leatherworking",
+    "Tree of Skill/Skills/Proficiency/Crafting/Carpentry/Carpentry.md",
+    "Tree of Skill/Skills/Proficiency/Crafting/Carpentry",
+    "Tree of Skill/Skills/Proficiency/Crafting/Carpentry/Carpentry crafts crafted.md",
+    "Tree of Skill/Skills/Proficiency/Building/Building.md",
     "Tree of Skill/Skills/Proficiency/Cleaning/Cleaning.md",
-    "Tree of Skill/Skills/Proficiency/Proficiency.md",
-    "Tree of Skill/Skills/Proficiency/Modern living.md",
-    "Tree of Skill/Skills/Proficiency/Using Appliances",
-    "Tree of Skill/Skills/Proficiency/Cleaning",
-    "Tree of Skill/Skills/Proficiency/Repairing/Bicycle repair.md",
-    "Tree of Skill/Skills/Proficiency/Music/Stringed instruments.md",
-    "Tree of Skill/Skills/Proficiency/Cooking/Roasted nuts.md",
-    "Tree of Skill/Skills/Proficiency/Cooking/Pasta/Pesto pasta with green beans.md",
-    "Tree of Skill/Skills/Proficiency/Music/Bass guitar.md",
-    "Tree of Skill/Skills/Proficiency/Music",
-    "Tree of Skill/Skills/Proficiency/Cooking/Pasta/Lentil tomato pasta.md",
-    "Tree of Skill/Skills/Proficiency/Gardening",
-    "Tree of Skill/Skills/Ability/Running",
-    "Tree of Skill/Skills/Ability/Bodyweight training/Vertical Push",
-    "Tree of Skill/Skills/Ability/Bodyweight training/Vertical Pull/Pull Ups",
-    "Tree of Skill/Skills/Ability/Bodyweight training/Vertical Pull/Muscle Ups",
-    "Tree of Skill/Experiences/Achievements/Explorer/Flora",
-    "Untitled.loom",
+    "Tree of Skill/Skills/Proficiency/Machines/Machines.md",
+    "Tree of Skill/Experiences/Achievements/Age/Age.md",
+    "Templates/Ability template.md",
+    "Templates/BWT template.md",
+    "Templates/Growing template.md",
+    "Tree of Skill/Skills/Proficiency/Gardening/Growing tomatoes.md",
+    "Tree of Skill/Skills/Skills.md",
+    "Tree of Skill/Skills/Knowledge/History.md",
+    "Tree of Skill/Skills/Knowledge/Knowledge.md",
+    "Tree of Skill/Skills/Knowledge/Microeconomics.md",
+    "Tree of Skill/Skills/Knowledge/Nature Sciences/Biology/Biochemistry.md",
+    "Tree of Skill/Skills/Knowledge/Nature Sciences/Biology/Anatomy.md",
+    "Tree of Skill/Skills/Knowledge/Nature Sciences/Chemistry.md",
+    "Tree of Skill/Skills/Knowledge/Nature Sciences/Nature Sciences.md",
+    "Tree of Skill/Skills/Knowledge/Tech knowledge/Programming",
+    "Tree of Skill/Skills/Knowledge/Tech knowledge/Programming/Programming languages/C++",
+    "Tree of Skill/Skills/Knowledge/Tech knowledge/Programming/Programming languages/C",
+    "Tree of Skill/Skills/Knowledge/Tech knowledge/Programming/Programming languages/Python",
+    "Tree of Skill/Skills/Knowledge/Tech knowledge/Programming/Programming languages/JavaScript",
+    "Tree of Skill/Skills/Proficiency/Machines",
     "Untitled.canvas"
   ]
 }

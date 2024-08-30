@@ -1,0 +1,2 @@
+[[Dishwasher]]
+[[Washing machine]]

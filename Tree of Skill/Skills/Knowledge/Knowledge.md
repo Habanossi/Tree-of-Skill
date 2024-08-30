@@ -10,4 +10,6 @@
 [[History]]
 [[Economics]]
 [[Philosophy]]
+[[Music]]
+[[Art]]
 
