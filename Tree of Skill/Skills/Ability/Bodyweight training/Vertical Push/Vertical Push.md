@@ -1,3 +1,3 @@
 #toplevel 
 [[Vertical Push Down]]
-[[Vertical Push Up]]
+[[Vertical Push (Up)]]

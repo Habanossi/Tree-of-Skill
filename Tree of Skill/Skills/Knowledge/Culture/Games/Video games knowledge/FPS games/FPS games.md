@@ -2,3 +2,4 @@
 [[Call of Duty]]
 [[Valorant]]
 [[Overwatch]]
+[[Escape from Tarkov]]
