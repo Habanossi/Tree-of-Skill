@@ -1,0 +1,4 @@
+- Beautiful places visited
+- Beautiful movies watched
+- Beautiful art pieces seen
+- etc

@@ -1,4 +1,6 @@
-#toplevel 
+#locked 
+Requirement for learning: Learn 1 Vertical Pull movement
+
 [[Pre-Pull Ups]]
 [[Pull Ups]]
 [[Muscle Ups]]
