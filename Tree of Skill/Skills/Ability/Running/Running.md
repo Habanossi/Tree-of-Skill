@@ -1,6 +1,6 @@
 [[Sprinting]]
 [[Long-distance running]]
-
+[[Trail running]]
 
 ### Fitness level in different zones
 

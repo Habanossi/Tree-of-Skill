@@ -8,3 +8,8 @@
 [[Racket sports]]
 [[Team sports]]
 [[Cycling]]
+[[Archery]]
+[[Bowling]]
+
+
+Question, where to put more technical sports that do not have high physical requirements? For example archery and bowling...

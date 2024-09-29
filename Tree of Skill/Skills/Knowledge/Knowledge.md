@@ -12,4 +12,5 @@
 [[Philosophy]]
 [[Music]]
 [[Art]]
-
+[[Geography]]
+[[Geology]]
