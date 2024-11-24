@@ -1,6 +1,6 @@
 #locked 
 
-Requirement for learning: Build tech stuff
+Requirement for learning: Build some tech stuff
 
 [[PC-building]]
 [[Home automation]]

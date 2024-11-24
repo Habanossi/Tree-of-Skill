@@ -1,4 +1,7 @@
-#highlevel
+#locked
+
+Requirement for learning: Learn 1 Bodyweight movement
+
 **General**
 TODO information about bodyweight training
 

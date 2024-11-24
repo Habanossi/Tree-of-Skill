@@ -1,2 +1,4 @@
-[[Dishwasher]]
-[[Washing machine]]
+
+[[Home appliances]]
+
+[[Smaller electronics]]

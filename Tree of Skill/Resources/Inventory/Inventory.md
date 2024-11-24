@@ -1,4 +1,6 @@
-#toplevel
+#locked
+Requirement for learning: Have 1 object in your inventory
+
 Long list of stuff that is mine.
 
 [[Clothing]]
