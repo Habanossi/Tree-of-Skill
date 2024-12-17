@@ -1,0 +1,1 @@
+Military power and influence. Get in with these guys if you want to arrange a coup. Generals, admirals, etc.

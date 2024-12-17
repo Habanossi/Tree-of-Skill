@@ -1,0 +1,1 @@
+Charisma, people power, ability to move masses, send messages

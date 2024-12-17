@@ -1,0 +1,1 @@
+Influencers? Teachers? Gurus? Maxxed charisma, get followers, good with people

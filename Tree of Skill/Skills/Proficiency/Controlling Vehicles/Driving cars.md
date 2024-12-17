@@ -1,3 +1,3 @@
 #locked 
 
-Requirement for learning: 
+Requirement for learning: Valid license

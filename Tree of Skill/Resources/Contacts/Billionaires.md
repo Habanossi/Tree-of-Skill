@@ -1,0 +1,1 @@
+Wealth, monetary power, throw money on the problem

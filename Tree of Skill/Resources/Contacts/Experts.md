@@ -1,0 +1,1 @@
+Expertise, knowledge in specific areas. Professors, doctors, mechanics, engineers, etc. Inventors, makers, builders. teachers?
